@@ -33,6 +33,7 @@
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
+- **[BigQuery](https://github.com/wong2/mcp-jina-reader)** - BigQuery database integration with schema inspection and query capabilities
 
 ---
 
