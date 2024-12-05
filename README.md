@@ -20,7 +20,7 @@
 - **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Web content fetching and conversion for efficient LLM usage
 
 ## Community Servers
-
+- **[Docker](https://github.com/QuantGeekDev/docker-mcp)** - Run and manage docker containers, docker compose, and logs
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Interacting with Cloudflare services
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
