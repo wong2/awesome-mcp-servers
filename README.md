@@ -38,6 +38,8 @@
 - **[BigQuery](https://github.com/ergut/mcp-bigquery-server)** (by ergut) - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
 - **[Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)** - MCP server for secure command-line interactions on Windows systems, enabling controlled access to PowerShell, CMD, and Git Bash shells.
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
+- **[Perplexity](https://github.com/tanigami/mcp-server-perplexity)** - Interacting with Perplexity
+
 
 ---
 
