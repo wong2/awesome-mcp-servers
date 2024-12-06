@@ -42,7 +42,7 @@
 - **[Docker](https://github.com/QuantGeekDev/docker-mcp)** - Run and manage docker containers, docker compose, and logs
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
 - **[Google Search Console](https://github.com/ahonn/mcp-server-gsc)** - A Model Context Protocol (MCP) server providing access to Google Search Console.
-
+- **[MongoDB](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol Server for MongoDB
 ---
 
 Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
