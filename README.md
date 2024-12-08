@@ -43,6 +43,7 @@
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
 - **[Google Search Console](https://github.com/ahonn/mcp-server-gsc)** - A Model Context Protocol (MCP) server providing access to Google Search Console.
 - **[MongoDB](https://github.com/kiliczsh/mcp-mongo-server)** - A Model Context Protocol Server for MongoDB
+- **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
 ---
 
 Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
