@@ -47,11 +47,12 @@
 
 ## Clients
 
+- **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
 - **[MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge)** 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
 - **[MCP-Chatbot](https://github.com/3choff/mcp-chatbot)** A simple yet powerful ⭐ CLI chatbot that integrates tool servers with any OpenAI-compatible LLM API.
-- **[zed](https://github.com/zed-industries/zed)** multiplayer code editor from the creators of atom
+- **[Zed](https://github.com/zed-industries/zed)** multiplayer code editor from the creators of atom
 - **[genkit](https://github.com/firebase/genkit)** agent and data transformation framework
-- **[continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
+- **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
 ---
 
