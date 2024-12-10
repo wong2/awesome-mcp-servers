@@ -34,6 +34,7 @@
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
 - **[any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp)** - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more
+- **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** - MySQL database integration with configurable access controls and schema inspection
 - **[BigQuery](https://github.com/LucasHild/mcp-server-bigquery)** (by LucasHild) - BigQuery database integration with schema inspection and query capabilities
 - **[BigQuery](https://github.com/ergut/mcp-bigquery-server)** (by ergut) - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
 - **[Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)** - MCP server for secure command-line interactions on Windows systems, enabling controlled access to PowerShell, CMD, and Git Bash shells.
