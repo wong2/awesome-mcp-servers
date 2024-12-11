@@ -54,6 +54,7 @@
 ## Clients
 
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
+- **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
 - **[MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge)** 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
 - **[MCP-Chatbot](https://github.com/3choff/mcp-chatbot)** A simple yet powerful ⭐ CLI chatbot that integrates tool servers with any OpenAI-compatible LLM API.
 - **[Zed](https://github.com/zed-industries/zed)** multiplayer code editor from the creators of atom
