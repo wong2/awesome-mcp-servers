@@ -51,6 +51,7 @@
 - **[CoinCap](https://github.com/QuantGeekDev/coincap-mcp)** - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - Search and crawl in one API
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
+- **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
 
 ## Clients
 
