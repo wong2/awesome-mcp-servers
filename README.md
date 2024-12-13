@@ -52,6 +52,7 @@
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - Search and crawl in one API
 - **[Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts)** - An MCP Server Integration with Apple Shortcuts
 - **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with Kubernetes environments monitored by Metoro
+- **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
 
 ## Clients
 
