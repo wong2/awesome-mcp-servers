@@ -21,6 +21,7 @@
 
 ## Community Servers
 
+- **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Interacting with Cloudflare services
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
