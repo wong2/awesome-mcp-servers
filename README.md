@@ -56,6 +56,7 @@
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - Snowflake database integration with read/write capabilities and insight tracking
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
+- **[Oatpp MCP server](https://github.com/oatpp/oatpp-mcp)** - C++ MCP server using Oatpp 
 
 ## Clients
 
