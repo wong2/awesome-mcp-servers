@@ -70,6 +70,13 @@
 - **[genkit](https://github.com/firebase/genkit)** agent and data transformation framework
 - **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
+
+## Frameworks
+
+- **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
+- **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
+- **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic’s Model Context Protocol implementation for Oat++
+
 ---
 
 Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
