@@ -57,6 +57,7 @@
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - Snowflake database integration with read/write capabilities and insight tracking
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
 - **[Apple Notes](https://github.com/RafalWilinski/mcp-apple-notes)** - Talk with your Apple Notes
+- **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
 
 ## Clients
 
