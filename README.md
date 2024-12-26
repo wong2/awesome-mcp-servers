@@ -61,6 +61,7 @@
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
+- **[DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server)** - Tools to the query and execute of Dify workflows
 
 ## Clients
 
