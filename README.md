@@ -66,6 +66,7 @@
 - **[Google News](https://github.com/ChanMeng666/server-google-news)** - Google News search capabilities with automatic topic categorization and multi-language support via SerpAPI integration.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
+- **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
 
 ## Clients
 
