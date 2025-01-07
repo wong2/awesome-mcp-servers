@@ -78,6 +78,7 @@
 - **[genkit](https://github.com/firebase/genkit)** agent and data transformation framework
 - **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
+- **[MCP-Connect](https://github.com/mcp-connect/mcp-connect)** A client that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
 
 ## Frameworks
 
