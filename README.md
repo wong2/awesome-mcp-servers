@@ -67,6 +67,7 @@
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
+- **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)**  - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
 
 ## Clients
 
