@@ -79,6 +79,7 @@
 - **[genkit](https://github.com/firebase/genkit)** agent and data transformation framework
 - **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
+- **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 
 ## Frameworks
 
