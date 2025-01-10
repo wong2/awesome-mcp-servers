@@ -67,6 +67,7 @@
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
+- **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)**  - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
 
 ## Clients
 
@@ -79,6 +80,7 @@
 - **[Continue](https://github.com/continuedev/continue)** vscode auto complete and chat tool (full feature support)
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
 - **[MCP-Connect](https://github.com/EvalsOne/mcp-connect)** A client that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
+- **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 
 ## Frameworks
 
