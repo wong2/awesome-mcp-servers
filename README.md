@@ -81,6 +81,7 @@
 - **[gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant)** dockerized mcp client with Anthropic, OpenAI and Langchain.
 - **[MCP-Connect](https://github.com/EvalsOne/mcp-connect)** A client that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
 - **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
+- **[LibreChat](https://www.librechat.ai/)** Open-source AI Web UI, supporting multiple providers including OpenAI, Anthropic, Google, Ollama, and local models. Includes MCP support for Agents.
 
 ## Frameworks
 
