@@ -68,6 +68,7 @@
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
 - **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)**  - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
+- **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)**  - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 
 ## Clients
 
