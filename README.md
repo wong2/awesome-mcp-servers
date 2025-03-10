@@ -70,6 +70,7 @@
 - **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)**  - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
 - **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)**  - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)**  - 📊 Chat with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines.
+- **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 
 ## Clients
 
