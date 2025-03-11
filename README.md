@@ -72,6 +72,7 @@
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)**  - 📊 Chat with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines.
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
+- **[Windows Control](https://github.com/Cheffromspace/nutjs-windows-control)** - Programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture using nut.js.
 
 ## Clients
 
