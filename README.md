@@ -71,6 +71,7 @@
 - **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)**  - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)**  - 📊 Chat with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines.
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
+- **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 
 ## Clients
 
