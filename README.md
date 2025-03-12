@@ -76,6 +76,7 @@
 - **[Windows Control](https://github.com/Cheffromspace/nutjs-windows-control)** - Programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture using nut.js.
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** - MCP server to provide Jira Tickets information to AI coding agents like Cursor.
+- **[Comet Opik](https://github.com/comet-ml/opik-mcp)** - MCP server to talk to your [Opik](https://github.com/comet-ml/opik) cloud or open-source instance to query and analyze LLM traces, metrics and observability.
 
 ## Clients
 
