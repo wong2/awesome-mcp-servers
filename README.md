@@ -97,7 +97,7 @@
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic’s Model Context Protocol implementation for Oat++
-
+- **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 ---
 
 Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
