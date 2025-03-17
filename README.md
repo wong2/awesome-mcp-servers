@@ -82,6 +82,7 @@
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
+- - **[Android MCP](https://github.com/minhalvp/android-mcp-server)** - 📲 An MCP server that provides control over Android devices through ADB. Offers device screenshot capture, UI layout analysis, package management, and ADB command execution capabilities.
 
 ## Clients
 
