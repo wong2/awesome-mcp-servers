@@ -66,7 +66,6 @@
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - 🐍 ☁️ Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability. Built with Python and FastAPI.
 - **[Google News](https://github.com/ChanMeng666/server-google-news)** - Google News search capabilities with automatic topic categorization and multi-language support via SerpAPI integration.
-- **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
@@ -87,6 +86,7 @@
 - **[Algorand](https://github.com/GoPlausible/algorand-mcp)** - A comprehensive MCP server for tooling interactions(40+) and resource accessibility(60+) plus many useful prompts to interact with Algorand Blockchain.
 - **[QGIS](https://github.com/jjsantos01/qgis_mcp)** - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
 - **[Fibery](https://github.com/Fibery-inc/fibery-mcp-server)** - Perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
+- **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
 
 ## Clients
 
