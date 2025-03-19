@@ -89,7 +89,6 @@
 - **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
 - **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** - MCP server for the incident management platform [Rootly](https://rootly.com/).
 
-
 ## Clients
 
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
