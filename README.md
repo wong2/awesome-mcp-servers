@@ -87,6 +87,7 @@
 - **[QGIS](https://github.com/jjsantos01/qgis_mcp)** - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
 - **[Fibery](https://github.com/Fibery-inc/fibery-mcp-server)** - Perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
 - **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
+- **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 
 ## Clients
 
