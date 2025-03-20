@@ -25,6 +25,7 @@
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
+- **[Excel](https://github.com/haris-musa/excel-mcp-server)** - Excel manipulation including data reading/writing, worksheet management, formatting, charts, and pivot table
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - Interacting with Obsidian via REST API
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
