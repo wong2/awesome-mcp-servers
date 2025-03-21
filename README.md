@@ -23,6 +23,7 @@
 
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Interacting with Cloudflare services
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
+- **[Zapier](https://zapier.com/l/mcp)** - Connect your AI Agents to 8,000 apps instantly
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
 - **[Excel](https://github.com/haris-musa/excel-mcp-server)** - Excel manipulation including data reading/writing, worksheet management, formatting, charts, and pivot table
