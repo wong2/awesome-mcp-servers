@@ -102,8 +102,8 @@
 - **[Vibe Check](https://github.com/PV-Bhat/vibe-check-mcp-server)** - The definitive Vibe Coder's sanity check MCP server: Prevents cascading errors by calling a "Vibe-check" agent to ensure alignment and prevent scope creep
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Semgrep](https://github.com/semgrep/mcp)** - Scan software for security vulnerabilies using [Semgrep](https://semgrep.dev).
-
-## Clients
+- **[mem0 fro Project management](https://github.com/KunihiroS/mem0-mcp-for-pm))** - Forked mem0 MCP Server changed scope from coding to PM.
+- **[Claude code mcp](https://github.com/KunihiroS/claude-code-mcp))** - Add power of Claude into your MCP Host.
 
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
 - **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
