@@ -20,7 +20,7 @@
 - **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Web content fetching and conversion for efficient LLM usage
 
 ## Community Servers
-
+- **[Backup](https://github.com/hexitex/MCP-Backup-Server)** - Add smart Backup abaility to coding agents like Windsurf, Cursor, Cluade Coder, etc   
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Interacting with Cloudflare services
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[Zapier](https://zapier.com/l/mcp)** - Connect your AI Agents to 8,000 apps instantly
