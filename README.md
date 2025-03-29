@@ -107,6 +107,7 @@
 - **[HackMD](https://github.com/yuna0x0/hackmd-mcp)** - A Model Context Protocol server for integrating [HackMD](https://hackmd.io)'s note-taking platform with AI assistants.
 - **[AniList](https://github.com/yuna0x0/anilist-mcp)** - AniList MCP server for accessing AniList API data
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
+- **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
 
 ## Clients
 
