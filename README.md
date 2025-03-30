@@ -113,7 +113,8 @@
 - **[APISIX-MCP](https://github.com/api7/apisix-mcp)** - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in [Apache APISIX](https://github.com/apache/apisix).
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[DeepView MCP](https://github.com/ai-1st/deepview-mcp)** - Enables IDEs like Cursor and Windsurf to analyze large codebases using Gemini's 1M context window.
-
+- **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
+  
 ## Clients
 
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
