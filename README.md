@@ -52,6 +52,8 @@
 - **[MongoDB](https://github.com/kiliczsh/mcp-mongo-server)** - A Model Context Protocol Server for MongoDB
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
+- **[weibaohui/k8m](https://github.com/weibaohui/k8m)**  Provides  multi-cluster Kubernetes management and operations using MCP, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.  
+- **[weibaohui/kom](https://github.com/weibaohui/kom)** Provides  multi-cluster Kubernetes management and operations using MCP, It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
 - **[Data Exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** - MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
@@ -108,6 +110,9 @@
 - **[AniList](https://github.com/yuna0x0/anilist-mcp)** - AniList MCP server for accessing AniList API data
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
+- **[APISIX-MCP](https://github.com/api7/apisix-mcp)** - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API, supporting querying and managing all resources in [Apache APISIX](https://github.com/apache/apisix).
+- **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
+- **[DeepView MCP](https://github.com/ai-1st/deepview-mcp)** - Enables IDEs like Cursor and Windsurf to analyze large codebases using Gemini's 1M context window.
 
 ## Clients
 
