@@ -128,7 +128,8 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Binary Ninja](https://github.com/fosdickio/binary_ninja_mcp)** - A Binary Ninja plugin, MCP server, and bridge that seamlessly integrates [Binary Ninja](https://binary.ninja) with your favorite MCP client.
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
-- **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.
+- **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
+- **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
