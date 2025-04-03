@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> A curated list of Model Context Protocol (MCP) servers
+> A list of Model Context Protocol (MCP) servers curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
 
 ## Reference Servers
 
@@ -229,7 +229,3 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
-
----
-
-Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
