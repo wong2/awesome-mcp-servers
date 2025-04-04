@@ -26,6 +26,13 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
 
+- **[AWS Bedrock KB Retrieval](https://github.com/awslabs/bedrock-kb-retrieval-mcp-server)** - Query Amazon Bedrock Knowledge Bases using natural language to retrieve relevant information from your data sources.
+- **[AWS CDK](https://github.com/awslabs/cdk-mcp-server)** - Get prescriptive CDK advice, explain CDK Nag rules, check suppressions, generate Bedrock Agent schemas, and discover AWS Solutions Constructs patterns.
+- **[AWS Core](https://github.com/awslabs/core-mcp-server)** - Core AWS MCP server providing prompt understanding and server management capabilities.
+- **[AWS Cost Analysis](https://github.com/awslabs/cost-analysis-mcp-server)** - Analyze CDK projects to identify AWS services used and get pricing information from AWS pricing webpages and API.
+- **[AWS Documentation](https://github.com/awslabs/aws-documentation-mcp-server)** - Fetch, convert, and search AWS documentation pages, with recommendations for related content.
+- **[AWS Nova Canvas](https://github.com/awslabs/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
+- **[AWS Well-Architected Review](https://github.com/awslabs/aws-wellarchitected-review-mcp-server)** - Review projects and infrastructure as code against the AWS Well-Architected Framework.
 - **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
