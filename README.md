@@ -224,6 +224,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - **[LibreChat](https://www.librechat.ai/)** Open-source AI Web UI, supporting multiple providers including OpenAI, Anthropic, Google, Ollama, and local models. Includes MCP support for Agents.
 - **[mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)** A Neovim plugin that provides a UI and api to interact with MCP servers.
+- **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
 
 ## Frameworks
 
