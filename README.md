@@ -149,6 +149,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[BloodHound-MCP](https://github.com/MorDavid/BloodHound-MCP-AI)** (by MorDavid) - integration that connects BloodHound with AI through MCP, allowing security professionals to analyze Active Directory attack paths using natural language queries instead of Cypher.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
+- **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
