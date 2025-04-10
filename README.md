@@ -237,6 +237,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Windows Control](https://github.com/Cheffromspace/nutjs-windows-control)** - Programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture using nut.js.
 - **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)** - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
+- **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - MCP gateway for specialized LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Published to npm as @pollinations/chucknorris.
 
 ## Clients
 
