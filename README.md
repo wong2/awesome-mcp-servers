@@ -211,6 +211,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - 🐍 ☁️ Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability. Built with Python and FastAPI.
 - **[Perplexity](https://github.com/tanigami/mcp-server-perplexity)** - Interacting with Perplexity
+- **[Pollinations](https://github.com/pollinations/model-context-protocol)** - Multimodal MCP server for generating images, audio, and text with no authentication required
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
