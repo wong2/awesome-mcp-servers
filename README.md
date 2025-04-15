@@ -26,7 +26,6 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
 
-
 - **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
@@ -132,6 +131,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - **[Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp)** - Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)
 - **[Tinybird](https://github.com/tinybirdco/mcp-tinybird)** - Interact with Tinybird serverless ClickHouse platform
+- **[Tldv](https://gitlab.com/tldv/tldv-mcp-server)** - Connect your AI agents to Google-Meet, Zoom & Microsoft Teams through [tl;dv](https://tldv.io)
 - **[Twilio](https://github.com/twilio-labs/mcp)** - Interact with [Twilio](https://www.twilio.com/en-us) APIs to send messages, manage phone numbers, configure your account, and more. 
 - **[UnifAI](https://github.com/unifai-network/unifai-mcp-server)** - Dynamically search and call tools using [UnifAI Network](https://unifai.network)
 - **[Unstructured](https://github.com/Unstructured-IO/UNS-MCP)** - Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)
