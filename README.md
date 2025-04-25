@@ -227,6 +227,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
+- **[MCP Open Library](https://github.com/8enSmith/mcp-open-library)** - A Model Context Protocol (MCP) server for the Open Library API that enables AI assistants to search for book and author information.
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
 - **[MongoDB](https://github.com/kiliczsh/mcp-mongo-server)** - A Model Context Protocol Server for MongoDB
