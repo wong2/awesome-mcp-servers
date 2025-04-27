@@ -62,6 +62,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Currents](https://github.com/currents-dev/currents-mcp)** - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - **[Dart](https://github.com/its-dart/dart-mcp-server)** - Interact with task, doc, and project data in [Dart](https://itsdart.com), an AI-native project management tool
 - **[DataWorks](https://github.com/aliyun/alibabacloud-dataworks-mcp-server)** - A Model Context Protocol (MCP) server that provides tools for AI, allowing it to interact with the DataWorks Open API through a standardized interface. This implementation is based on the Aliyun Open API and enables AI agents to perform cloud resources operations seamlessly.
+- **[DealX](https://github.com/DealExpress/mcp-server)** - MCP Server for DealX platform
 - **[dbt](https://github.com/dbt-labs/dbt-mcp)** - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
 - **[DevHub](https://github.com/devhub/devhub-cms-mcp)** - Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform
 - **[DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp)** - Access real-time DEX analytics across 20+ blockchains with [DexPaprika API](https://docs.dexpaprika.com), tracking 5M+ tokens, pools, volumes, and historical market data. Built by CoinPaprika.
@@ -133,11 +134,13 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Root Signals](https://github.com/root-signals/root-signals-mcp)** - Equip AI agents with evaluation and self-improvement capabilities with [Root Signals](https://www.rootsignals.ai/)
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - One API for Search, Crawling, and Sitemaps
 - **[Scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server)** - Integrate real-time [Scrapeless](https://www.scrapeless.com/en) Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications. This server enables dynamic context retrieval for AI workflows, chatbots, and research tools.
+- **[Scrapezy](https://github.com/scrapezy/mcp)** - Turn websites into datasets with [Scrapezy](https://scrapezy.com)
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 - **[Semgrep](https://github.com/semgrep/mcp)** - Enable AI agents to secure code with [Semgrep](https://semgrep.dev/).
 - **[Sentry](https://github.com/getsentry/sentry-mcp)** - Official MCP server for [Sentry](https://sentry.io).
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
+- **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
@@ -155,7 +158,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Webflow](https://github.com/webflow/mcp-server)** - Interact with Webflow APIs to list and edit your site and CMS data.
 - **[WebScraping.AI](https://github.com/webscraping-ai/webscraping-ai-mcp-server)** - Interact with **[WebScraping.AI](https://WebScraping.AI)** for web data extraction and scraping.
 - **[Xero](https://github.com/XeroAPI/xero-mcp-server)** - Interact with the accounting data in your business using our official MCP server
-- **[YepCode](https://github.com/yepcode/mcp-server-js)** - Execute any LLM-generated code in the [YepCode](https://yepcode.io)  secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- **[YepCode](https://github.com/yepcode/mcp-server-js)** - Execute any LLM-generated code in the [YepCode](https://yepcode.io) secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 - **[Zapier](https://zapier.com/mcp)** - Connect your AI Agents to 8,000 apps instantly.
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
 
@@ -227,6 +230,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
+- **[Microsoft 365](https://github.com/softeria/ms-365-mcp-server)** 📇 ☁️ - MCP server that connects to the whole Microsoft 365 suite using Graph API (including mail, files, Excel, calendar)
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
 - **[MCP Open Library](https://github.com/8enSmith/mcp-open-library)** - A Model Context Protocol (MCP) server for the Open Library API that enables AI assistants to search for book and author information.
