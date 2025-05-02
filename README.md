@@ -44,9 +44,11 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AWS Nova Canvas](https://github.com/awslabs/mcp/tree/main/src/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
+- **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
 - **[BrightData](https://github.com/luminati-io/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
+- **[BrowserStack](https://github.com/browserstack/mcp-server)** – Bring the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) to your AI tools, making testing faster and easier for every developer and tester on your team.
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - **[Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)** - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - **[Chroma](https://github.com/chroma-core/chroma-mcp)** - Embeddings, vector search, document storage, and full-text search with the open-source AI application database
@@ -67,6 +69,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[dbt](https://github.com/dbt-labs/dbt-mcp)** - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
 - **[DevHub](https://github.com/devhub/devhub-cms-mcp)** - Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform
 - **[DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp)** - Access real-time DEX analytics across 20+ blockchains with [DexPaprika API](https://docs.dexpaprika.com), tracking 5M+ tokens, pools, volumes, and historical market data. Built by CoinPaprika.
+- **[Digma](https://github.com/digma-ai/digma-mcp-server)** - A code observability MCP enabling dynamic code analysis based on OTEL/APM data to assist in code reviews, issues identification and fix, highlighting risky code etc. 
 - **[E2B](https://github.com/e2b-dev/mcp-server)** - Run code in secure sandboxes hosted by [E2B](https://e2b.dev)
 - **[EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - **[EduBase](https://github.com/EduBase/MCP)** - Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities
@@ -86,6 +89,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Graphlit](https://github.com/graphlit/graphlit-mcp-server)** - Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project.
 - **[GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server)** - Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
 - **[Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server)** - Connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, query and analyze data.
+- **[Hostinger](https://github.com/hostinger/api-mcp-server)** - Official [Hostinger API](https://developers.hostinger.com/) MCP server for services managment.
 - **[Hydrolix](https://github.com/hydrolix/mcp-hydrolix)** - Hydrolix time-series datalake integration providing schema exploration and query capabilities to LLM-based workflows.
 - **[Hyperbrowser](https://github.com/hyperbrowserai/mcp)** - [Hyperbrowser](https://www.hyperbrowser.ai/) is the next-generation platform empowering AI agents and enabling effortless, scalable browser automation.
 - **[IBM wxflows](https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript)** - Tool platform by IBM to build, test and deploy tools for any data source
@@ -111,10 +115,12 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
 - **[Milvus](https://github.com/zilliztech/mcp-server-milvus)** - Search, Query and interact with data in your Milvus Vector Database.
 - **[MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck)** - Query and analyze data with MotherDuck and local DuckDB
+- **[Mureka](https://github.com/SkyworkAI/Mureka-mcp)** - generate lyrics, song and background music(instrumental)
 - **[Needle](https://github.com/needle-ai/needle-mcp)** - Production-ready RAG out of the box to search and retrieve data from your own documents.
 - **[Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/)** - Neo4j graph database server (schema + read/write-cypher) and separate graph database backed memory
 - **[Neon](https://github.com/neondatabase/mcp-server-neon)** - Interact with the Neon serverless Postgres platform
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion official MCP server
+- **[Notte](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** - Leverage Notte Web AI agents & cloud browser sessions for scalable browser automation & scraping workflows
 - **[Norman Finance](https://github.com/norman-finance/norman-mcp-server)** - MCP server for managing accounting and taxes with Norman Finance.
 - **[OceanBase](https://github.com/oceanbase/mcp-oceanbase)** - MCP Server for OceanBase database and its tools
 - **[Octagon](https://github.com/OctagonAI/octagon-mcp-server)** - Deliver real-time investment research with extensive private and public market data.
@@ -145,6 +151,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
+- **[Taskeract](https://github.com/Acqusys/taskeract-mcp)** - Official Taskeract MCP Server for integrating your [Taskeract](https://www.taskeract.com/) project tasks and load the context of your tasks into your MCP enabled app.
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - **[Tencent Cloud COS MCP](https://github.com/Tencent/cos-mcp)** - Quickly integrate with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities powered
 - **[Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp)** - Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)
@@ -223,6 +230,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Hippycampus](https://github.com/cromwellian/hippycampus)** - Turns any Swagger/OpenAPI REST endpoint with a yaml/json definition into an MCP Server with Langchain/Langflow integration automatically.
 - **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
+- **[interactive-mcp](https://github.com/ttommyth/interactive-mcp)** 📇 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
 - **[IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)** - MCP Server for automated reverse engineering with IDA Pro.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** - MCP server to provide Jira Tickets information to AI coding agents like Cursor.
@@ -234,6 +242,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
 - **[Microsoft 365](https://github.com/softeria/ms-365-mcp-server)** 📇 ☁️ - MCP server that connects to the whole Microsoft 365 suite using Graph API (including mail, files, Excel, calendar)
+- **[Microsoft Entra ID MCP Server](https://github.com/hieuttmmo/entraid-mcp-server)** - A Python MCP server for Microsoft Entra ID (Azure AD) directory, user, group, device, sign-in, and security operations via Microsoft Graph.
 - **[MCP Aggregator](https://github.com/nazar256/combine-mcp)** - An MCP (Model Context Protocol) aggregator that allows you to combine multiple MCP servers into a single endpoint allowing to filter specific tools.
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
@@ -276,6 +285,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
 - **[Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity)** - MCP Server to control and interact with Unity3d Game Engine for game development
 - **[User Feedback](https://github.com/mrexodia/user-feedback-mcp)** - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
+- **[User Prompt MCP](https://github.com/nazar256/user-prompt-mcp)** - An MCP server for Cursor that enables requesting user input during generation process.
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
 - **[Vibe Check](https://github.com/PV-Bhat/vibe-check-mcp-server)** - The definitive Vibe Coder's sanity check MCP server: Prevents cascading errors by calling a "Vibe-check" agent to ensure alignment and prevent scope creep
