@@ -41,6 +41,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AWS Core](https://github.com/awslabs/mcp/tree/main/src/core-mcp-server)** - Core AWS MCP server providing prompt understanding and server management capabilities.
 - **[AWS Cost Analysis](https://github.com/awslabs/mcp/tree/main/src/cost-analysis-mcp-server)** - Analyze CDK projects to identify AWS services used and get pricing information from AWS pricing webpages and API.
 - **[AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server)** - Fetch, convert, and search AWS documentation pages, with recommendations for related content.
+- **[AWS EC2 Pricing](https://github.com/trilogy-group/aws-pricing-mcp)** - Get up-to-date EC2 pricing information with one call. Powered by a pre-parsed AWS pricing catalogue.
 - **[AWS Nova Canvas](https://github.com/awslabs/mcp/tree/main/src/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
