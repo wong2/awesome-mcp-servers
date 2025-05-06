@@ -237,6 +237,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)** - MCP Server for automated reverse engineering with IDA Pro.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** - MCP server to provide Jira Tickets information to AI coding agents like Cursor.
+- **[JSON MCP](https://github.com/VadimNastoyashchy/json-mcp)** - MCP server empowers LLMs to interact with JSON files efficiently. With JSON MCP, you can split, merge, etc.
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
 - **[Language Server](https://github.com/isaacphi/mcp-language-server)** 🏎️ - MCP Language Server gives MCP enabled clients access to semantic tools like get definition, references, rename, and diagnostics.
