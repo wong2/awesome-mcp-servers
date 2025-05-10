@@ -322,6 +322,9 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)** A Neovim plugin that provides a UI and api to interact with MCP servers.
 - **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
 
+## Aggregators
+- **[AgentMode](https://github.com/agentmode/server) - Connect to dozens of databases, data warehouses, Github & more, from a single MCP server.  Intall with 1 click using the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=agentmode.agentmode).
+
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
