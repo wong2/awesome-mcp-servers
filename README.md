@@ -252,6 +252,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Microsoft 365](https://github.com/softeria/ms-365-mcp-server)** 📇 ☁️ - MCP server that connects to the whole Microsoft 365 suite using Graph API (including mail, files, Excel, calendar)
 - **[Microsoft Entra ID MCP Server](https://github.com/hieuttmmo/entraid-mcp-server)** - A Python MCP server for Microsoft Entra ID (Azure AD) directory, user, group, device, sign-in, and security operations via Microsoft Graph.
 - **[MCP Aggregator](https://github.com/nazar256/combine-mcp)** - An MCP (Model Context Protocol) aggregator that allows you to combine multiple MCP servers into a single endpoint allowing to filter specific tools.
+- **[MCP-CLI Adapter](https://github.com/inercia/mcp-cli-adapter)** - Use command line tools in a secure fashion as MCP tools.
 - **[MCP Expr Lang](https://github.com/ivan-saorin/mcp-expr-lang)** - MCP Expr-Lang provides a seamless integration between Claude AI and the powerful expr-lang expression evaluation engine.
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
