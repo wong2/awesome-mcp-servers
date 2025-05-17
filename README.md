@@ -328,7 +328,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[LibreChat](https://www.librechat.ai/)** Open-source AI Web UI, supporting multiple providers including OpenAI, Anthropic, Google, Ollama, and local models. Includes MCP support for Agents.
 - **[mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)** A Neovim plugin that provides a UI and api to interact with MCP servers.
 - **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
-
+- **[mcp-http](https://github.com/one-matrix/mcp-http)** It supports HTTP request operations via a REST API, including various methods like GET, POST, PUT, and DELETE, aiming to simplify integration with various Web APIs.
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
