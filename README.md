@@ -45,6 +45,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
+- **[BGG MCP](https://github.com/kkjdaniel/bgg-mcp)** - BGG MCP enables AI tools to interact with the BoardGameGeek API.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
 - **[Bright Data](https://github.com/luminati-io/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
@@ -312,7 +313,6 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Windows Control](https://github.com/Cheffromspace/nutjs-windows-control)** - Programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture using nut.js.
 - **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)** - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
-- **[BGG MCP](https://github.com/kkjdaniel/bgg-mcp)** - BGG MCP enables AI tools to interact with the BoardGameGeek API.
 
 ## Clients
 
