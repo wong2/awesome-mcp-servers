@@ -203,6 +203,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Browser MCP](https://github.com/browsermcp/mcp)** - Automate your local browser
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
+- **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
 - **[Canvas LMS](https://github.com/ahnopologetic/canvas-lms-mcp)** - MCP server for easy access to education data through your Canvas LMS instance.
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
 - **[Chart](https://github.com/antvis/mcp-server-chart)** - 🤖 A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
