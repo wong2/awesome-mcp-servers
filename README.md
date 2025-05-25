@@ -53,6 +53,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - **[Campertunity](https://github.com/campertunity/mcp-server)** - Search campgrounds around the world on campertunity, check availability, and provide booking links.
 - **[Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)** - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
+- **[Chart](https://github.com/antvis/mcp-server-chart)** - 🤖 A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - **[Chroma](https://github.com/chroma-core/chroma-mcp)** - Embeddings, vector search, document storage, and full-text search with the open-source AI application database
 - **[Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp)** - Predict anything with Chronulus AI forecasting and prediction agents.
 - **[CircleCI](https://github.com/CircleCI-Public/mcp-server-circleci)** - Enable AI Agents to fix build failures from CircleCI.
@@ -212,7 +213,6 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
 - **[Canvas LMS](https://github.com/ahnopologetic/canvas-lms-mcp)** - MCP server for easy access to education data through your Canvas LMS instance.
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
-- **[Chart](https://github.com/antvis/mcp-server-chart)** - 🤖 A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - A specialized MCP gateway for LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Provides prompts for different LLMs using an enum-based approach.
 - **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
@@ -272,6 +272,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
 - **[MCP Open Library](https://github.com/8enSmith/mcp-open-library)** - A Model Context Protocol (MCP) server for the Open Library API that enables AI assistants to search for book and author information.
 - **[MCP-SearXNG-Enhanced Web Search](https://github.com/OvertliDS/mcp-searxng-enhanced)** - An enhanced MCP server for SearXNG web searching, utilizing a category-aware web-search, web-scraping, and includes a date/time retrieval tool.
+- <img src="https://mermaid.js.org/favicon.svg" height="14"/> **[Mermaid](https://github.com/hustcc/mcp-mermaid)** - ❤️ Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - **[Memory-Plus](https://github.com/Yuchen20/Memory-Plus)**  a lightweight, local RAG memory store to record, retrieve, update, delete, and visualize persistent "memories" across sessions—perfect for developers working with multiple AI coders (like Windsurf, Cursor, or Copilot) or anyone who wants their AI to actually remember them.
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
