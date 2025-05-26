@@ -320,6 +320,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Trello](https://github.com/m0xai/trello-mcp-server)** - Trello integration for working with boards, lists in boards and cards in lists.
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
+- **[Unified Diff MCP Server](https://github.com/gorosun/unified-diff-mcp)** - Beautiful HTML and PNG diff visualization using diff2html, designed for filesystem edit_file dry-run output with high-performance Bun runtime.
 - **[Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity)** - MCP Server to control and interact with Unity3d Game Engine for game development
 - **[User Feedback](https://github.com/mrexodia/user-feedback-mcp)** - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
 - **[User Prompt MCP](https://github.com/nazar256/user-prompt-mcp)** - An MCP server for Cursor that enables requesting user input during generation process.
