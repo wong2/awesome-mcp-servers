@@ -322,6 +322,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp)** - MCP Server to let Claude / your AI control the browser
 - **[spm-mcp](https://github.com/simpleswift/spm-mcp)** - iOS Swift Package Manager server written in Swift
 - **[Squad AI](https://github.com/the-basilisk-ai/squad-mcp)** – Product‑discovery and strategy platform integration. Create, query and update opportunities, solutions, outcomes, requirements and feedback from any MCP‑aware LLM.
+- **[Task Orchestrator](https://github.com/EchoingVesper/mcp-task-orchestrator)** - AI-powered task orchestration and workflow automation with specialized agent roles, intelligent task decomposition, and seamless integration across Claude Desktop, Cursor IDE, Windsurf, and VS Code.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
