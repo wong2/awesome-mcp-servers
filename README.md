@@ -282,6 +282,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[MCP Expr Lang](https://github.com/ivan-saorin/mcp-expr-lang)** - MCP Expr-Lang provides a seamless integration between Claude AI and the powerful expr-lang expression evaluation engine.
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[mcp-k8s-go](https://github.com/strowk/mcp-k8s-go)** - Golang-based Kubernetes MCP Server. Built to be extensible.
+- **[MKP](https://github.com/StacklokLabs/mkp)** - Model Kontext Protocol Server for Kubernetes that allows LLM-powered applications to interact with Kubernetes clusters through native Go implementation with direct API integration and comprehensive resource management.
 - **[MCP Open Library](https://github.com/8enSmith/mcp-open-library)** - A Model Context Protocol (MCP) server for the Open Library API that enables AI assistants to search for book and author information.
 - **[MCP-SearXNG-Enhanced Web Search](https://github.com/OvertliDS/mcp-searxng-enhanced)** - An enhanced MCP server for SearXNG web searching, utilizing a category-aware web-search, web-scraping, and includes a date/time retrieval tool.
 - **[Mermaid](https://github.com/hustcc/mcp-mermaid)** - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
