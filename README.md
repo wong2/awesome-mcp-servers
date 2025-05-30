@@ -264,6 +264,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
 - **[interactive-mcp](https://github.com/ttommyth/interactive-mcp)** 📇 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
 - **[IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)** - MCP Server for automated reverse engineering with IDA Pro.
+- **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** - Premium memory consistent across all AI applications.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** - MCP server to provide Jira Tickets information to AI coding agents like Cursor.
 - **[JSON MCP](https://github.com/VadimNastoyashchy/json-mcp)** - MCP server empowers LLMs to interact with JSON files efficiently. With JSON MCP, you can split, merge, etc.
