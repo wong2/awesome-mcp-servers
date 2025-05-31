@@ -117,6 +117,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started )** - Connect with 10,000+ tools across HRIS, ATS, CRM, Accounting, Calendar, Meeting, Ticketing, and more categories. 
 - **[Last9](https://github.com/last9/last9-mcp-server)** - Seamlessly bring real-time production context—logs, metrics, and traces—into your local environment to auto-fix code faster.
 - **[Logfire](https://github.com/pydantic/logfire-mcp)** - Provides access to OpenTelemetry traces and metrics through Logfire.
+- **[Logseq API](https://github.com/gustavo-meilus/logseq-api-mcp)** - Provides Logseq API integration to LLMs be able to interact with pages from logseq graphs directly.
 - **[Langfuse Prompt Management](https://github.com/langfuse/mcp-server-langfuse)** - Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts.
 - **[LINE Official Account](https://github.com/line/line-bot-mcp-server)** - Integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - **[Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md)** - Make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev) Localization Engine.
