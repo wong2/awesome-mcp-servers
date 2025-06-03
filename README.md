@@ -353,7 +353,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 
 ## Clients
-
+- **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
 - **[mcp-cli](https://github.com/wong2/mcp-cli)** a cli inspector for MCP servers
 - **[mcp-client](https://github.com/rakesh-eltropy/mcp-client)** MCP REST API and CLI client for interacting with MCP servers, supports OpenAI, Claude, Gemini, Ollama etc.
 - **[MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge)** 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
