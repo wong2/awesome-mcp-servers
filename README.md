@@ -49,7 +49,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
-- **[Bright Data](https://github.com/luminati-io/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
+- **[Bright Data](https://github.com/brightdata/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - **[BrowserStack](https://github.com/browserstack/mcp-server)** – Bring the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) to your AI tools, making testing faster and easier for every developer and tester on your team.
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
