@@ -157,6 +157,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Ramp](https://github.com/ramp-public/ramp-mcp)** - Interact with [Ramp](https://ramp.com)'s Developer API to run analysis on your spend and gain insights leveraging LLMs
 - **[Raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** - Interact with your crash reporting and real using monitoring data on your Raygun account
 - **[Reexpress](https://github.com/ReexpressAI/reexpress_mcp_server)** - Enable Similarity-Distance-Magnitude statistical verification for your search, software, and data science workflows
+- **[Ref](https://github.com/ref-tools/ref-tools-mcp)** - Up-to-date documentation for your coding agent. Covers 1000s of public repos and sites. Built by [ref.tools](https://ref.tools/)
 - **[Rember](https://github.com/rember/rember-mcp)** - Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats
 - **[Riza](https://github.com/riza-io/riza-mcp)** - Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)
 - **[Root Signals](https://github.com/root-signals/root-signals-mcp)** - Equip AI agents with evaluation and self-improvement capabilities with [Root Signals](https://www.rootsignals.ai/)
