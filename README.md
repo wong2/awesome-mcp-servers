@@ -27,7 +27,6 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 - **[Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry)** - Retrieving and analyzing issues from Sentry.io
 - **[Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences
 - **[Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack)** - Channel management and messaging capabilities
-- **[Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite)** - Database interaction and business intelligence capabilities
 
 ## Official Servers
 
@@ -184,6 +183,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
+- **[Taskade](https://github.com/taskade/mcp)** – Connect to the [Taskade platform](https://www.taskade.com/) via MCP. Access tasks, projects, workflows, and AI agents in real-time through a unified workspace and API.
 - **[Taskeract](https://github.com/Acqusys/taskeract-mcp)** - Official Taskeract MCP Server for integrating your [Taskeract](https://www.taskeract.com/) project tasks and load the context of your tasks into your MCP enabled app.
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - **[Tencent Cloud COS MCP](https://github.com/Tencent/cos-mcp)** - Quickly integrate with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities powered
@@ -252,6 +252,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[DeepView MCP](https://github.com/ai-1st/deepview-mcp)** - Enables IDEs like Cursor and Windsurf to analyze large codebases using Gemini's 1M context window.
 - **[DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server)** - Tools to the query and execute of Dify workflows
 - **[Docker](https://github.com/QuantGeekDev/docker-mcp)** - Run and manage docker containers, docker compose, and logs
+- **[DynamoDB-Toolbox](https://www.dynamodbtoolbox.com/docs/databases/actions/mcp-toolkit)** - Leverages your Schemas and Access Patterns to interact with your [DynamoDB](https://aws.amazon.com/dynamodb) Database using natural language.
 - **[Email](https://github.com/Shy2593666979/mcp-server-email)** - This server enables users to send emails through various email providers, including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail. It also supports attaching files from specified directories, making it easy to upload attachments along with the email content.
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
@@ -343,11 +344,13 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - Snowflake database integration with read/write capabilities and insight tracking
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp)** - MCP Server to let Claude / your AI control the browser
 - **[spm-mcp](https://github.com/simpleswift/spm-mcp)** - iOS Swift Package Manager server written in Swift
+- **[SQLite](https://github.com/panasenco/mcp-sqlite)** - MCP server for SQLite files. Supports Datasette-compatible metadata!
 - **[Squad AI](https://github.com/the-basilisk-ai/squad-mcp)** – Product‑discovery and strategy platform integration. Create, query and update opportunities, solutions, outcomes, requirements and feedback from any MCP‑aware LLM.
 - **[Task Orchestrator](https://github.com/EchoingVesper/mcp-task-orchestrator)** - AI-powered task orchestration and workflow automation with specialized agent roles, intelligent task decomposition, and seamless integration across Claude Desktop, Cursor IDE, Windsurf, and VS Code.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
+- **[Token Metrics](https://github.com/token-metrics/mcp)** - Token Metrics integration for fetching real-time crypto market data, trading signals, price predictions, and advanced analytics.
 - **[Trello](https://github.com/m0xai/trello-mcp-server)** - Trello integration for working with boards, lists in boards and cards in lists.
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
