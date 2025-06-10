@@ -174,6 +174,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Riza](https://github.com/riza-io/riza-mcp)** - Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)
 - **[Root Signals](https://github.com/root-signals/root-signals-mcp)** - Equip AI agents with evaluation and self-improvement capabilities with [Root Signals](https://www.rootsignals.ai/)
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - One API for Search, Crawling, and Sitemaps
+- **[SEO Review Tools](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/)** - Get access to real-time keyword insights, backlink data, traffic estimates and more.. with the SEO API    
 - **[Scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server)** - Integrate real-time [Scrapeless](https://www.scrapeless.com/en) Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications. This server enables dynamic context retrieval for AI workflows, chatbots, and research tools.
 - **[Scrapezy](https://github.com/scrapezy/mcp)** - Turn websites into datasets with [Scrapezy](https://scrapezy.com)
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
