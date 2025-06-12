@@ -358,6 +358,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
 - **[Trello](https://github.com/m0xai/trello-mcp-server)** - Trello integration for working with boards, lists in boards and cards in lists.
+- **[Trello MCP](https://github.com/kocakli/Trello-Desktop-MCP)** - Trello Desktop MCP server that enables Claude Desktop to interact with Trello boards, cards, lists, and team members through natural language commands. 
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
 - **[Unified Diff MCP Server](https://github.com/gorosun/unified-diff-mcp)** - Beautiful HTML and PNG diff visualization using diff2html, designed for filesystem edit_file dry-run output with high-performance Bun runtime.
