@@ -397,6 +397,9 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Shinkai](http://github.com/dcSpark/shinkai-apps/)** is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI. Agents and tools are exposed as an MCP Server.
 - **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
 
+## Aggregators
+- **[AgentMode](https://github.com/agentmode/server) - Connect to dozens of databases, data warehouses, Github & more, from a single MCP server.  Intall with 1 click using the [VS Code extension](https://marketplace.visualstudio.com/items?itemName=agentmode.agentmode).
+
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
