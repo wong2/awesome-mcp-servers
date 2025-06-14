@@ -136,6 +136,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Mapbox](https://github.com/mapbox/mcp-server)** - Unlock geospatial intelligence through Mapbox APIs like geocoding, POI search, directions, isochrones and more.
 - **[Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** - Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 - **[Mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
+- **[mcp-server-win32-registry](https://github.com/WayneWalterBerry/mcp-server-win32-registry)** - A local running server that allows developers to query and search the Windows registry.
 - **[MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - Open source MCP server specializing in easy, fast, and secure tools for Databases.
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** - Interact & query with Meilisearch (Full-text & semantic search API)
 - **[Mercado Pago](https://mcp.mercadopago.com/)** - Mercado Pago's official MCP server, offering tools to interact with our API, simplifying tasks and product integration.
