@@ -266,6 +266,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server)** - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - **[Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics)** - Access and analyze Fathom Analytics data and reports
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
+- **[FrankfurterMCP](https://github.com/anirbanbasu/frankfurtermcp)** - MCP server acting as an interface to the [Frankfurter API](https://frankfurter.dev/) for currency exchange data.
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
 - **[Gentoro](https://github.com/gentoro-GT/mcp-nodejs-server)** - Gentoro generates MCP Servers based on OpenAPI specifications.
