@@ -252,6 +252,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Comet Opik](https://github.com/comet-ml/opik-mcp)** - MCP server to talk to your [Opik](https://github.com/comet-ml/opik) cloud or open-source instance to query and analyze LLM traces, metrics and observability.
 - **[Creatify](https://github.com/TSavo/creatify-mcp)** - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
+- **[consult7](https://github.com/szeider/consult7)** - Analyze large codebases and document collections using high-context models via OpenRouter, OpenAI, or Google AI -- very useful, e.g., with Claude Code
 - **[Data Exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** - MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - **[DropBin](https://dropbin.org/mcp)** - Remote SSE MCP server for hosting HTML webpages and sharing content through temporary URLs without authentication
 - **[Database](https://github.com/TheRaLabs/legion-mcp)** (by Legion AI) - Universal database MCP server supporting multiple database types including PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server, BigQuery, Oracle DB, and SQLite
