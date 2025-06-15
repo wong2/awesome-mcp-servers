@@ -5,7 +5,7 @@
 ## Sponsors
 
 <p align="center">
-  <a href="https://get.brightdata.com/ohiwqscr4mne">
+  <a href="https://get.brightdata.com/mcpservers">
     <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
   </a>
 </p>
