@@ -143,6 +143,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Mureka](https://github.com/SkyworkAI/Mureka-mcp)** - generate lyrics, song and background music(instrumental)
 - **[Needle](https://github.com/needle-ai/needle-mcp)** - Production-ready RAG out of the box to search and retrieve data from your own documents.
 - **[Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/)** - Neo4j graph database server (schema + read/write-cypher) and separate graph database backed memory
+- **[Nexus](https://github.com/adawalli/nexus)** - AI-powered web search using Perplexity Sonar models with source citations and intelligent context-aware results
 - **[Neon](https://github.com/neondatabase/mcp-server-neon)** - Interact with the Neon serverless Postgres platform
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion official MCP server
 - **[Notte](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** - Leverage Notte Web AI agents & cloud browser sessions for scalable browser automation & scraping workflows
