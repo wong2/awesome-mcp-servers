@@ -155,6 +155,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Oxylabs](https://github.com/oxylabs/oxylabs-mcp)** - Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction.
 - **[PayPal](https://github.com/paypal/agent-toolkit)** - The PayPal Model Context Protocol server allows you to integrate with PayPal APIs through function calling. This protocol supports various tools to interact with different PayPal services.
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
+- **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
 - **[Perplexity](https://github.com/ppl-ai/modelcontextprotocol)** - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.
 - **[PGYER](https://github.com/PGYER/pgyer-mcp-server)** - MCP Server for [PGYER](https://www.pgyer.com/) platform, supports uploading, querying apps, etc.
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
