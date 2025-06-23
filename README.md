@@ -240,6 +240,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
+- **[Career Site Jobs](https://apify.com/fantastic-jobs/career-site-job-listing-api/api/mcp)** - A MCP server to retrieve up-to-date jobs from company career sites.
 - **[Canvas LMS](https://github.com/ahnopologetic/canvas-lms-mcp)** - MCP server for easy access to education data through your Canvas LMS instance.
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
 - **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - A specialized MCP gateway for LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Provides prompts for different LLMs using an enum-based approach.
