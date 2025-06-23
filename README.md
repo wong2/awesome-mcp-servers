@@ -80,6 +80,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[DealX](https://github.com/DealExpress/mcp-server)** - MCP Server for DealX platform
 - **[Debugg AI](https://github.com/debugg-ai/debugg-ai-mcp)** - Enable your code gen agents to create & run 0-config end-to-end tests against new code changes in remote browsers via the [Debugg AI](https://debugg.ai) testing platform.
 - **[dbt](https://github.com/dbt-labs/dbt-mcp)** - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
+- **[Decodo](https://github.com/Decodo/decodo-mcp-server)** - Easy web data access. Simplified retrieval of information from websites and online sources.
 - **[DevHub](https://github.com/devhub/devhub-cms-mcp)** - Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform
 - **[DeepResearch](https://github.com/OctagonAI/octagon-deep-research-mcp)** - Lightning-Fast, High-Accuracy Deep Research Agent 👉 8–10x faster 👉 Greater depth & accuracy 👉 Unlimited parallel runs
 - **[DeepWiki by Devin](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** - Remote, no-auth MCP server providing AI-powered codebase context and answers
