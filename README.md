@@ -356,6 +356,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Reloaderoo](https://github.com/cameroncooke/reloaderoo)** - A local MCP server for developers that mirrors your in-development MCP server, allowing seamless restarts and tool updates so you can build, test, and iterate on your MCP server within the same AI session without interruption.
 - **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** - MCP server for the incident management platform [Rootly](https://rootly.com/).
 - **[Salaah MCP](https://github.com/yusufk/salaah-mcp)** - FastAPI and MCP service providing Islamic prayer times and other useful calculations.
+- **[SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage)** - Connect to any relational database, and be able to get valid SQL, and ask questions like what does a certain column prefix mean.
 - **[SchemaFlow](https://github.com/CryptoRadi/schemaflow-mcp-server)** - Real-time PostgreSQL & Supabase database schema access for AI-IDEs via Model Context Protocol. Provides live database context through secure SSE connections with three powerful tools: get_schema, analyze_database, and check_schema_alignment. [SchemaFlow](https://schemaflow.dev)
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - Search and crawl in one API
 - **[SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng)** - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
