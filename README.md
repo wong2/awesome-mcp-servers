@@ -32,6 +32,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AgentRPC](https://github.com/agentrpc/agentrpc)** - Connect to any function, any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).
 - **[Aiven](https://github.com/Aiven-Open/mcp-aiven)** - Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - **[ALAPI](https://github.com/ALAPI-SDK/mcp-alapi-cn)** - ALAPI MCP Tools,Call hundreds of API interfaces via MCP
+- **[Allyson](https://github.com/isaiahbjork/allyson-mcp)** - AI-powered SVG animation generator that transforms static files into animated SVG components using the [Allyson](https://allyson.ai) platform
 - **[AlibabaCloud DevOps MCP](https://github.com/aliyun/alibabacloud-devops-mcp-server)** - Yunxiao MCP Server provides AI assistants with the ability to interact with the [Yunxiao platform](https://devops.aliyun.com).
 - **[AllVoiceLab](https://www.allvoicelab.com/mcp)** - An AI voice toolkit with TTS, voice cloning, and video translation, now available as an MCP server for smarter agent integration.
 - **[Apache Doris](https://github.com/apache/doris-mcp-server)** - MCP Server For [Apache Doris](https://doris.apache.org/), an MPP-based real-time data warehouse.
