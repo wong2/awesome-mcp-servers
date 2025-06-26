@@ -129,6 +129,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Inkeep](https://github.com/inkeep/mcp-server-python)** - RAG Search over your content powered by [Inkeep](https://inkeep.com)
 - **[InstantDB](https://github.com/instantdb/instant/tree/main/client/packages/mcp)** - Create, manage, and update applications on InstantDB, the modern Firebase.
 - **[Integration App](https://github.com/integration-app/mcp-server)** - Interact with any other SaaS applications on behalf of your customers.
+- **[IP2Location.io](https://github.com/ip2location/mcp-ip2location-io)** - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - **[JetBrains](https://github.com/JetBrains/mcp-jetbrains)** – Work on your code with JetBrains IDEs
 - **[Jetty.io](https://github.com/jettyio/mlcbakery/tree/main/mcp_server)** — Work on dataset metadata with MLCommons Croissant validation and creation.
 - **[Kagi Search](https://github.com/kagisearch/kagimcp)** - Search the web using Kagi's search API
