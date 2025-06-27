@@ -259,6 +259,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Career Site Jobs](https://apify.com/fantastic-jobs/career-site-job-listing-api/api/mcp)** - A MCP server to retrieve up-to-date jobs from company career sites.
 - **[Canvas LMS](https://github.com/ahnopologetic/canvas-lms-mcp)** - MCP server for easy access to education data through your Canvas LMS instance.
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
+- **[Chart](https://github.com/KamranBiglari/mcp-server-chart)** - This server offers a wide variety of chart types with comprehensive Zod schema validation for type-safe chart configuration.
 - **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - A specialized MCP gateway for LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Provides prompts for different LLMs using an enum-based approach.
 - **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
@@ -423,6 +424,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+
 
 ## Clients
 
