@@ -76,7 +76,6 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Coresignal](https://github.com/Coresignal-com/coresignal-mcp/)** - Access comprehensive B2B data on companies, employees, and job postings for your LLMs and AI workflows.
 - **[Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)** - Interact with the data stored in Couchbase clusters using natural language.
 - **[CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai)** - Interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
-- **[Cricket MCP Server](https://github.com/tarun7r/cricket-mcp-server)** - A MCP server for fetching cricket data from Cricbuzz, including player statistics, live match scores, upcoming schedules, and the latest news.
 - **[Cua](https://github.com/trycua/cua/tree/main/libs/mcp-server)** - MCP server for the Computer-Use Agent (CUA), allowing you to run CUA through Claude Desktop or other MCP clients.
 - **[Currents](https://github.com/currents-dev/currents-mcp)** - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - **[Cycode](https://github.com/cycodehq/cycode-cli#mcp-command-experiment)** - Boost security in your dev lifecycle via SAST, SCA, Secrets & IaC scanning with [Cycode](https://cycode.com/).
@@ -269,6 +268,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[CoinCap](https://github.com/QuantGeekDev/coincap-mcp)** - A MCP server that provides real-time cryptocurrency market data through CoinCap's public API without requiring authentication
 - **[Comet Opik](https://github.com/comet-ml/opik-mcp)** - MCP server to talk to your [Opik](https://github.com/comet-ml/opik) cloud or open-source instance to query and analyze LLM traces, metrics and observability.
 - **[Creatify](https://github.com/TSavo/creatify-mcp)** - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
+- **[Cricket MCP Server](https://github.com/tarun7r/cricket-mcp-server)** - A MCP server for fetching cricket data from Cricbuzz, including player statistics, live match scores, upcoming schedules, and the latest news.
 - **[Contentful](https://github.com/ivo-toby/contentful-mcp)** - Interact with your content on the Contentful platform
 - **[consult7](https://github.com/szeider/consult7)** - Analyze large codebases and document collections using high-context models via OpenRouter, OpenAI, or Google AI -- very useful, e.g., with Claude Code
 - **[Data Exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration)** - MCP server for autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
