@@ -158,6 +158,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Needle](https://github.com/needle-ai/needle-mcp)** - Production-ready RAG out of the box to search and retrieve data from your own documents.
 - **[Neo4j](https://github.com/neo4j-contrib/mcp-neo4j/)** - Neo4j graph database server (schema + read/write-cypher) and separate graph database backed memory
 - **[Neon](https://github.com/neondatabase/mcp-server-neon)** - Interact with the Neon serverless Postgres platform
+- **[Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server)** integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion official MCP server
 - **[Notte](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** - Leverage Notte Web AI agents & cloud browser sessions for scalable browser automation & scraping workflows
 - **[Norman Finance](https://github.com/norman-finance/norman-mcp-server)** - MCP server for managing accounting and taxes with Norman Finance.
