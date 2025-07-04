@@ -333,6 +333,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
+- **[Maven Tools](https://github.com/arvindand/maven-tools-mcp)** - Enhanced Maven Central integration with intelligent caching, bulk operations, and version classification
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
 - **[Microsoft 365](https://github.com/softeria/ms-365-mcp-server)** 📇 ☁️ - MCP server that connects to the whole Microsoft 365 suite (Microsoft Office, Outlook, Excel) using Graph API (including mail, files, calendar)
 - **[Microsoft Entra ID MCP Server](https://github.com/hieuttmmo/entraid-mcp-server)** - A Python MCP server for Microsoft Entra ID (Azure AD) directory, user, group, device, sign-in, and security operations via Microsoft Graph.
