@@ -33,6 +33,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
 - **[AgentRPC](https://github.com/agentrpc/agentrpc)** - Connect to any function, any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).
+- **[Agile Luminary](https://github.com/AgileLuminary/mcp-agile-luminary)** - Simpler Project Management - send [Agile Luminary](https://agileluminary.com) stories straight to your IDE
 - **[Aiven](https://github.com/Aiven-Open/mcp-aiven)** - Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - **[ALAPI](https://github.com/ALAPI-SDK/mcp-alapi-cn)** - ALAPI MCP Tools,Call hundreds of API interfaces via MCP
 - **[Alby Bitcoin Payment MCP](https://github.com/getAlby/mcp/)** - Connect any bitcoin lightning wallet to agents to send and receive payments instantly at low cost.
