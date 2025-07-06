@@ -166,6 +166,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Norman Finance](https://github.com/norman-finance/norman-mcp-server)** - MCP server for managing accounting and taxes with Norman Finance.
 - **[OceanBase](https://github.com/oceanbase/mcp-oceanbase)** - MCP Server for OceanBase database and its tools
 - **[Octagon](https://github.com/OctagonAI/octagon-mcp-server)** - Deliver real-time investment research with extensive private and public market data.
+- **[Octocode](https://github.com/bgauryy/octocode-mcp)** - Advanced AI-powered developer assistant that enables advanced code research, analysis and discovery across GitHub repositories
 - **[ocireg](https://github.com/StacklokLabs/ocireg-mcp)** - An SSE-based MCP server that allows LLM-powered applications to interact with OCI registries. It provides tools for retrieving information about container images, listing tags, and more.
 - **[OctoEverywhere For 3D Printing](https://octoeverywhere.com/mcp)** - A 3D Printing MCP server that allows for querying for live state, webcam snapshots, and 3D printer control.
 - **[OP.GG](https://github.com/opgginc/opgg-mcp)** - Access real-time gaming data across popular titles like League of Legends, TFT, and Valorant, offering champion analytics, esports schedules, meta compositions, and character statistics.
