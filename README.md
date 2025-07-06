@@ -253,8 +253,8 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[BGG MCP](https://github.com/kkjdaniel/bgg-mcp)** - BGG MCP enables AI tools to interact with the BoardGameGeek API.
 - **[BigQuery](https://github.com/LucasHild/mcp-server-bigquery)** (by LucasHild) - BigQuery database integration with schema inspection and query capabilities
 - **[BigQuery](https://github.com/ergut/mcp-bigquery-server)** (by ergut) - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
-- **[Bing Webmaster Tools](https://github.com/isiahw1/mcp-server-bing-webmaster)** - MCP server for Bing Webmaster Tools API integration providing access to search analytics, site management, URL submission, and SEO insights
 - **[Binary Ninja](https://github.com/fosdickio/binary_ninja_mcp)** - A Binary Ninja plugin, MCP server, and bridge that seamlessly integrates [Binary Ninja](https://binary.ninja) with your favorite MCP client.
+- **[Bing Webmaster Tools](https://github.com/isiahw1/mcp-server-bing-webmaster)** - MCP server for Bing Webmaster Tools API integration providing access to search analytics, site management, URL submission, and SEO insights
 - **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)** - integrates with Bluesky API to query and search feeds and posts.
 - **[BloodHound-MCP](https://github.com/MorDavid/BloodHound-MCP-AI)** (by MorDavid) - integration that connects BloodHound with AI through MCP, allowing security professionals to analyze Active Directory attack paths using natural language queries instead of Cypher.
 - **[Box](https://github.com/hmk/box-mcp-server)** - File access and search for Box.
