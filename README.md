@@ -130,6 +130,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Inbox Zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server)** - AI personal assistant for email [Inbox Zero](https://www.getinboxzero.com)
 - **[Inkeep](https://github.com/inkeep/mcp-server-python)** - RAG Search over your content powered by [Inkeep](https://inkeep.com)
 - **[InstantDB](https://github.com/instantdb/instant/tree/main/client/packages/mcp)** - Create, manage, and update applications on InstantDB, the modern Firebase.
+- **[Inspektor Gadget MCP server](https://github.com/inspektor-gadget/ig-mcp-server)** - Debug your Container and Kubernetes workloads with an AI interface powered by eBPF.
 - **[Integration App](https://github.com/integration-app/mcp-server)** - Interact with any other SaaS applications on behalf of your customers.
 - **[IP2Location.io](https://github.com/ip2location/mcp-ip2location-io)** - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - **[IPLocate](https://github.com/iplocate/mcp-server-iplocate)** - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
