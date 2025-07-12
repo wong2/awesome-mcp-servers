@@ -175,6 +175,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Pearch](https://github.com/Pearch-ai/mcp_pearch)** - Best people search engine that reduces the time spent on talent discovery.
 - **[Perplexity](https://github.com/ppl-ai/modelcontextprotocol)** - An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.
 - **[PGYER](https://github.com/PGYER/pgyer-mcp-server)** - MCP Server for [PGYER](https://www.pgyer.com/) platform, supports uploading, querying apps, etc.
+- **[PlainSignal](https://github.com/plainsignal/plainsignal-mcp)** - Official MCP server that connects to PlainSignal's API and querying realtime website analytics data in conversational AI.
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
 - **[Plugged.in](https://github.com/VeriTeknik/pluggedin-mcp-proxy)** - A comprehensive proxy that combines multiple MCP servers into a single MCP. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
