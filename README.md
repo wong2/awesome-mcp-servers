@@ -201,6 +201,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
 - **[SonarQube](https://github.com/SonarSource/sonarqube-mcp-server)** - Provides seamless integration with [SonarQube](https://www.sonarsource.com/) Server or Cloud, and enables analysis of code snippets directly within the agent context
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
+- **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
 - **[StarRocks](https://github.com/StarRocks/mcp-server-starrocks)** - Interact with [StarRocks](https://www.starrocks.io/)
 - **[Stripe](https://github.com/stripe/agent-toolkit)** - Interact with Stripe API
