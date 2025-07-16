@@ -290,6 +290,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Everything Search](https://github.com/mamertofabian/mcp-everything-search)** - Fast Windows file search using Everything SDK
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
 - **[Excel](https://github.com/haris-musa/excel-mcp-server)** - Excel manipulation including data reading/writing, worksheet management, formatting, charts, and pivot table
+- **[Excel to JSON MCP by WTSolutions](https://github.com/he-yang/excel-to-json-mcp)** - MCP Server providing a standardized interface for converting (1) Excel or CSV data into JSON format ;(2) Excel(.xlsx) file into Structured JSON.
 - **[Facebook Ads](https://github.com/gomarble-ai/facebook-ads-mcp-server)** - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - **[Facebook Ads Library](https://github.com/trypeggy/facebook-ads-library-mcp)** - Get any answer from the Facebook Ads Library, conduct deep research including messaging, creative testing and comparisons in seconds.
 - **[Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics)** - Access and analyze Fathom Analytics data and reports
