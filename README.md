@@ -169,6 +169,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ocireg](https://github.com/StacklokLabs/ocireg-mcp)** - An SSE-based MCP server that allows LLM-powered applications to interact with OCI registries. It provides tools for retrieving information about container images, listing tags, and more.
 - **[OctoEverywhere For 3D Printing](https://octoeverywhere.com/mcp)** - A 3D Printing MCP server that allows for querying for live state, webcam snapshots, and 3D printer control.
 - **[OP.GG](https://github.com/opgginc/opgg-mcp)** - Access real-time gaming data across popular titles like League of Legends, TFT, and Valorant, offering champion analytics, esports schedules, meta compositions, and character statistics.
+- **[Openfort](https://github.com/openfort-xyz/mcp)** - Supercharge your AI assistant with plug-and-play access to authentication, project scaffolding, and smart wallet tooling.
 - **[Oxylabs](https://github.com/oxylabs/oxylabs-mcp)** - Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction.
 - **[PayPal](https://github.com/paypal/agent-toolkit)** - The PayPal Model Context Protocol server allows you to integrate with PayPal APIs through function calling. This protocol supports various tools to interact with different PayPal services.
 - **[Pearl](https://mcp.pearl.com)** - Official MCP Server to interact with Pearl API. Connect your AI Agents with 12,000+ certified experts instantly.
