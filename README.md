@@ -54,6 +54,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server)** - Fetch, convert, and search AWS documentation pages, with recommendations for related content.
 - **[AWS Nova Canvas](https://github.com/awslabs/mcp/tree/main/src/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
+- **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 - **[Bankless Onchain](https://github.com/bankless/onchain-mcp)** - Query Onchain data, like ERC20 tokens, transaction history, smart contract state.
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
