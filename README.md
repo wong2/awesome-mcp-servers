@@ -96,6 +96,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Digma](https://github.com/digma-ai/digma-mcp-server)** - A code observability MCP enabling dynamic code analysis based on OTEL/APM data to assist in code reviews, issues identification and fix, highlighting risky code etc.
 - **[DINO-X](https://github.com/IDEA-Research/DINO-X-MCP)** - Advanced computer vision and object detection MCP server powered by Dino-X, enabling AI agents to analyze images, detect objects, identify keypoints, and perform visual understanding tasks.
 - **[Drand](https://github.com/randa-mu/drand-mcp-server)** - An MCP server for fetching verifiable random numbers from the [drand network](https://drand.love).
+- **[DreamFactory](https://github.com/dreamfactorysoftware/df-mcp/)** - An MCP server for securely (via RBAC) talking to on-premise and cloud MS SQL Server, MySQL, PostgreSQL databases and other data sources.
 - **[E2B](https://github.com/e2b-dev/mcp-server)** - Run code in secure sandboxes hosted by [E2B](https://e2b.dev)
 - **[EdgeOne Pages MCP](https://github.com/TencentEdgeOne/edgeone-pages-mcp)** - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - **[EduBase](https://github.com/EduBase/MCP)** - Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities
