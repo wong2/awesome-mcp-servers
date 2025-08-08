@@ -462,6 +462,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
 - **[Shinkai](http://github.com/dcSpark/shinkai-apps/)** is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI. Agents and tools are exposed as an MCP Server.
 - **[mcps-playground](https://mcpsplayground.com/chat)** a playground for Remote MCP servers
+- **[GitBook](https://www.gitbook.com/)** Generate docs powered by AI chat, with native support for integrating third-party MCP servers.
 
 ## Frameworks
 
