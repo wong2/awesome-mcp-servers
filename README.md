@@ -29,6 +29,7 @@ These servers aim to demonstrate MCP features and the TypeScript and Python SDKs
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
 
+- **[1mcpserver](https://github.com/particlefuture/1mcpserver)** - MCP of MCPs. Automatic discovery and configure MCP servers on your local machine. Fully REMOTE! Just use [https://mcp.1mcpserver.com/mcp/](https://mcp.1mcpserver.com/mcp/)
 - **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
