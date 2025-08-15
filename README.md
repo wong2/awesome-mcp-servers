@@ -334,6 +334,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
 - **[Language Server](https://github.com/isaacphi/mcp-language-server)** 🏎️ - MCP Language Server gives MCP enabled clients access to semantic tools like get definition, references, rename, and diagnostics.
+- **[Latex MCP Server](https://github.com/Yeok-c/latex-mcp-server)** - MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex. 
 - **[Lazy Toggl MCP](https://github.com/movstox/lazy-toggl-mcp)** - Simple unofficial MCP server to track time via Toggl API
 - **[libSQL by xexr](https://github.com/Xexr/mcp-libsql)** - MCP server for libSQL databases with comprehensive security and management tools. Supports file, local HTTP, and remote Turso databases with connection pooling, transaction support, and 6 specialized database tools.
 - **[Linear](https://github.com/tacticlaunch/mcp-linear)** - Integrates with Linear project management systems.
