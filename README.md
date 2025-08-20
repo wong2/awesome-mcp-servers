@@ -368,6 +368,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
 - **[NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server)** - Manage NocoDB server, support read and write databases
+- **[NodeCodeStudio](https://nodecodestudio.com)** - Activate MCP services (Gmail, Calendar, WordPress, etc.) and run browser automation workflows via a Chrome extension with importable sequences
 - **[Notion](https://github.com/danhilse/notion_mcp)** - Integrates with Notion's API to manage personal todo list
 - **[NPM Search](https://github.com/btwiuse/npm-search-mcp-server)** - Search for npm packages
 - **[Ntfy](https://github.com/gitmotion/ntfy-me-mcp)** - An ntfy MCP server for sending/fetching ntfy notifications to your self-hosted ntfy server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
