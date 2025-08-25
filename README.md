@@ -114,6 +114,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Gitee](https://github.com/oschina/mcp-gitee)** - Gitee API integration, repository, issue, and pull request management, and more.
 - **[GitKraken](https://github.com/gitkraken/gk-cli)** - A CLI for interacting with GitKraken APIs. Includes an MCP server via `gk mcp` that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more.
 - **[Globalping](https://github.com/jsdelivr/globalping-mcp-server)** - Network access with the ability to run commands like ping, traceroute, mtr, http, dns resolve.
+- **[Gluestack UI MCP Server](https://github.com/gauravsaini/gluestack-ui-mcp-server)** - An MCP server tailored for React Native–first development using Gluestack UI.
 - **[Google Cloud Run](https://github.com/GoogleCloudPlatform/cloud-run-mcp)** - Official MCP Server to deploy to [Google Cloud Run](https://cloud.google.com/run).
 - **[gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server)** - Human-in-the-loop platform - Allow AI agents and automations to send requests for approval to your [gotoHuman](https://www.gotohuman.com) inbox.
 - **[Grafana](https://github.com/grafana/mcp-grafana)** - Search dashboards, investigate incidents and query datasources in your Grafana instance
