@@ -319,6 +319,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Homebrew MCP](https://github.com/jeannier/homebrew-mcp)** - Interact with Homebrew (the package manager for macOS and Linux) using natural language commands.
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
+- [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** - 📧 An IMAP Model Context Protocol (MCP) server to expose IMAP operations as tools for AI assistants.
 - **[Instagram DMs](https://github.com/trypeggy/instagram_dm_mcp)** - Send Instagram DMs via your LLM
 - **[interactive-mcp](https://github.com/ttommyth/interactive-mcp)** 📇 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
