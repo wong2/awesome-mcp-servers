@@ -427,6 +427,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Vibe Check](https://github.com/PV-Bhat/vibe-check-mcp-server)** - The definitive Vibe Coder's sanity check MCP server: Prevents cascading errors by calling a "Vibe-check" agent to ensure alignment and prevent scope creep
 - **[Wassenger](https://github.com/wassengerhq/mcp-wassenger)** - [Wassenger](https://wassenger.com) MCP server to chat, send messages and automate WhatsApp from any AI model client (free trial available).
 - **[Weather](https://github.com/TimLukaHorstmann/mcp-weather)** - Accurate weather forecasts via the AccuWeather API (free tier available).
+- **[KnowAir Weather](https://github.com/shuowang-ai/Weather-MCP)** – Real-time weather **and air quality** via the Caiyun Weather API (meteorology + AQI, CN & US standards).
 - **[Webex](https://github.com/Kashyap-AI-ML-Solutions/webex-messaging-mcp-server)** - A Model Context Protocol (MCP) server that provides AI assistants with comprehensive access to Cisco Webex messaging capabilities.
 - **[WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP)** - Self-hosted Websearch API
 - **[Website Snapshot](https://github.com/gustavo-meilus/mcp-web-snapshot)** - A MCP server that provides comprehensive website snapshot capabilities using Playwright. This server enables LLMs to capture and analyze web pages through structured accessibility snapshots, network monitoring, and console message collection.
