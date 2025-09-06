@@ -231,6 +231,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Xero](https://github.com/XeroAPI/xero-mcp-server)** - Interact with the accounting data in your business using our official MCP server
 - **[YepCode](https://github.com/yepcode/mcp-server-js)** - Execute any LLM-generated code in the [YepCode](https://yepcode.io) secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 - **[Zapier](https://zapier.com/mcp)** - Connect your AI Agents to 8,000 apps instantly.
+- **[Zenable](https://docs.zenable.io/integrations/mcp/getting-started)** - Clean up sloppy AI code and prevent vulnerabilities
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
 
 ## Community Servers
