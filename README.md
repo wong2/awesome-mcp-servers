@@ -262,6 +262,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[bytebase/dbhub](https://github.com/bytebase/dbhub)** – 📇 Universal database MCP server supporting mainstream databases.\
 - **[Calculator](https://github.com/githejie/mcp-server-calculator)** - This server enables LLMs to use calculator for precise numerical calculations.
 - **[CalDAV MCP](https://github.com/dominik1001/caldav-mcp)** - A CalDAV MCP server to expose calendar operations as tools for AI assistants.
+- **[context-awesome](https://github.com/bh-rat/context-awesome)** - A MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - **[Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp)** - MCP server for [Calcom](https://cal.com/) (Also known as [Cal.com](https://cal.com/)). Manage event types, create bookings, and access Cal.com scheduling data through LLMs.
 - **[Career Site Jobs](https://apify.com/fantastic-jobs/career-site-job-listing-api/api/mcp)** - A MCP server to retrieve up-to-date jobs from company career sites.
 - **[Canvas LMS](https://github.com/ahnopologetic/canvas-lms-mcp)** - MCP server for easy access to education data through your Canvas LMS instance.
