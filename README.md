@@ -145,6 +145,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[LINE Official Account](https://github.com/line/line-bot-mcp-server)** - Integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - **[Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md)** - Make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev) Localization Engine.
 - **[Mailgun](https://github.com/mailgun/mailgun-mcp-server)** - Interact with Mailgun API.
+- **[MailSandbox](https://github.com/btafoya/mailsandbox)** - MailSandbox (a fork of Mailpit) is a fast, zero-dependency email testing tool & API with a web UI, SMTP server, Postmark API emulation, and MCP server for AI-assisted debugging.
 - **[Mailtrap](https://github.com/railsware/mailtrap-mcp)** - Integrates with Mailtrap Email API.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
 - **[Mapbox](https://github.com/mapbox/mcp-server)** - Unlock geospatial intelligence through Mapbox APIs like geocoding, POI search, directions, isochrones and more.
