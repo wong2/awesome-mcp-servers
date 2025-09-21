@@ -377,6 +377,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Hetzner Cloud MCP Server](https://github.com/dkruyt/mcp-hetzner)** - A Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API. This server allows language models to manage Hetzner Cloud resources through structured functions.
 - **[Hippycampus](https://github.com/cromwellian/hippycampus)** - Turns any Swagger/OpenAPI REST endpoint with a yaml/json definition into an MCP Server with Langchain/Langflow integration automatically.
 - **[Home Assistant](https://github.com/voska/hass-mcp)** - Interact with Home Assistant to control smart home devices, query states, manage automations, and troubleshoot your smart home setup.
+- **[Homey](https://github.com/pigmej/python-homey-mcp)** - Interact with Homey to control smart home system. Supports devices, flows, and zones. Contains a few goodies for better integrations with LLMs.
 - **[Homebrew MCP](https://github.com/jeannier/homebrew-mcp)** - Interact with Homebrew (the package manager for macOS and Linux) using natural language commands.
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
 - **[Imagician](https://github.com/flowy11/imagician)** - A MCP server for comprehensive image editing operations including resizing, format conversion, cropping, compression, and more based on sharp.
