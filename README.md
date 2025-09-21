@@ -227,6 +227,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[VeyraX](https://github.com/VeyraX/veyrax-mcp)** - Single tool to control all 100+ API integrations, and UI components
 - **[VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)** - Server for advanced AI-driven video editing, semantic search, multilingual transcription, generative media, voice cloning, and content moderation.
 - **[VISO TRUST](https://github.com/visotrust/viso-mcp-server)** - Access and manage your VISO TRUST third-party risk program directly through your AI assistant.
+- **[VpunaAiSearch](https://github.com/vpuna/vpuna-ai-search)** - Connect to [Vpuna AI Search Service](https://aisearch.vpuna.com), a developer first platform for semantic search, summarization, and contextual chat. Each project dynamically exposes its own Remote HTTP MCP server, enabling real-time context injection from structured and unstructured data.
 - **[WayStation](https://waystation.ai/connect/mcp-server)** — A universal remote MCP server that connects to popular productivity tools such as Notion, Monday, AirTable, and many more.
 - **[Webflow](https://github.com/webflow/mcp-server)** - Interact with Webflow APIs to list and edit your site and CMS data.
 - **[WebScraping.AI](https://github.com/webscraping-ai/webscraping-ai-mcp-server)** - Interact with **[WebScraping.AI](https://WebScraping.AI)** for web data extraction and scraping.
