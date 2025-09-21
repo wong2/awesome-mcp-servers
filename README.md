@@ -32,6 +32,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[1mcpserver](https://github.com/particlefuture/1mcpserver)** - MCP of MCPs. Automatic discovery and configure MCP servers on your local machine. Fully REMOTE! Just use [https://mcp.1mcpserver.com/mcp/](https://mcp.1mcpserver.com/mcp/)
 - **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
+- **[Agent Mindshare](https://agentmindshare.com)** - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations with [Agent Mindshare](https://agentmindshare.com).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
 - **[AgentRPC](https://github.com/agentrpc/agentrpc)** - Connect to any function, any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).
 - **[Agile Luminary](https://github.com/AgileLuminary/mcp-agile-luminary)** - Simpler Project Management - send [Agile Luminary](https://agileluminary.com) stories straight to your IDE
