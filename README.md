@@ -1,6 +1,7 @@
 # Awesome MCP Servers
 
-> A list of Model Context Protocol (MCP) servers curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
+> [!NOTE]
+> We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
 ## Sponsors
 
