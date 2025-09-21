@@ -31,6 +31,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 - **[1mcpserver](https://github.com/particlefuture/1mcpserver)** - MCP of MCPs. Automatic discovery and configure MCP servers on your local machine. Fully REMOTE! Just use [https://mcp.1mcpserver.com/mcp/](https://mcp.1mcpserver.com/mcp/)
 - **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
+- **[4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp)** - An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.
 - **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - **[Agent Mindshare](https://agentmindshare.com)** - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations with [Agent Mindshare](https://agentmindshare.com).
 - **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
