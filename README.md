@@ -73,7 +73,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[CircleCI](https://github.com/CircleCI-Public/mcp-server-circleci)** - Enable AI Agents to fix build failures from CircleCI.
 - **[ClickHouse](https://github.com/ClickHouse/mcp-clickhouse)** - Query your [ClickHouse](https://clickhouse.com/) database server.
 - **[Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare)** - Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)
-- **[CoinGecko](https://docs.coingecko.com/reference/mcp-server/)** - Official [CoinGecko API](https://www.coingecko.com/en/api) MCP Server for Crypto Price & Market Data, across 200+ blokchain networks and 8M+ tokens. 
+- **[CoinGecko](https://docs.coingecko.com/reference/mcp-server/)** - Official [CoinGecko API](https://www.coingecko.com/en/api) MCP Server for Crypto Price & Market Data, across 200+ blokchain networks and 8M+ tokens.
 - **[Comet Opik](https://github.com/comet-ml/opik-mcp)** - Query and analyze your [Opik](https://github.com/comet-ml/opik) logs, traces, prompts and all other telemtry data from your LLMs in natural language.
 - **[Context 7](https://github.com/upstash/context7-mcp)** - Context7 MCP - Up-to-date Docs For Any Cursor Prompt
 - **[Convex](https://stack.convex.dev/convex-mcp-server)** - Introspect and query your apps deployed to Convex.
@@ -111,7 +111,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Financial Datasets](https://github.com/financial-datasets/mcp-server)** - Stock market API made for AI agents
 - **[Firecrawl](https://github.com/mendableai/firecrawl-mcp-server)** - Extract web data with [Firecrawl](https://firecrawl.dev)
 - **[Fireproof](https://github.com/fireproof-storage/mcp-database-server)** - Immutable ledger database with live synchronization
-- **[Fulcra Context](https://github.com/fulcradynamics/fulcra-context-mcp)** - Fulcra Context MCP server for accessing your personal health, workouts, sleep, location, and more, all privately.  Built around [Context by Fulcra](https://www.fulcradynamics.com/).
+- **[Fulcra Context](https://github.com/fulcradynamics/fulcra-context-mcp)** - Fulcra Context MCP server for accessing your personal health, workouts, sleep, location, and more, all privately. Built around [Context by Fulcra](https://www.fulcradynamics.com/).
 - **[GitHub](https://github.com/github/github-mcp-server)** - GitHub's official MCP Server
 - **[Gitee](https://github.com/oschina/mcp-gitee)** - Gitee API integration, repository, issue, and pull request management, and more.
 - **[GitKraken](https://github.com/gitkraken/gk-cli)** - A CLI for interacting with GitKraken APIs. Includes an MCP server via `gk mcp` that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more.
@@ -123,7 +123,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Graphlit](https://github.com/graphlit/graphlit-mcp-server)** - Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project.
 - **[GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server)** - Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
 - **[GrowthBook](https://github.com/growthbook/growthbook-mcp)** — Create and read feature flags, review experiments, generate flag types, search docs, and interact with GrowthBook's feature flagging and experimentation platform.
-- **[Harness](https://github.com/harness/mcp-server)** - Access and interact with Harness platform data, including pipelines, repositories, logs, and artifact registries. 
+- **[Harness](https://github.com/harness/mcp-server)** - Access and interact with Harness platform data, including pipelines, repositories, logs, and artifact registries.
 - **[Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server)** - Connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, query and analyze data.
 - **[Hostinger](https://github.com/hostinger/api-mcp-server)** - Official [Hostinger API](https://developers.hostinger.com/) MCP server for services managment.
 - **[Hydrolix](https://github.com/hydrolix/mcp-hydrolix)** - Hydrolix time-series datalake integration providing schema exploration and query capabilities to LLM-based workflows.
@@ -188,6 +188,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
 - **[Plugged.in](https://github.com/VeriTeknik/pluggedin-mcp-proxy)** - A comprehensive proxy that combines multiple MCP servers into a single MCP. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - **[Powerdrill](https://github.com/powerdrillai/powerdrill-mcp)** - An MCP server that provides tools to interact with Powerdrill datasets, enabling smart AI data analysis and insights.
+- **[Powertool](https://github.com/aws-powertools/powertools-mcp)** - An MCP implementation that provides search functionality for the Powertools for AWS Lambda documentation across multiple runtimes.
 - **[Prisma Postgres](https://github.com/prisma/mcp)** - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries)
 - **[ProdEAI](https://github.com/CuriousBox-AI/ProdE-mc)** - Your 24/7 production engineer that preserves context across multiple codebases [Prode.ai](https://prode.ai).
 - **[QA Sphere](https://github.com/Hypersequent/qasphere-mcp)** - Integration with [QA Sphere](https://qasphere.com/) test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
@@ -435,13 +436,13 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Svelte Documentation](https://github.com/khromov/llmctx)** - Remote server (SSE/Streamable) for the latest Svelte and SvelteKit documentation
 - **[Task Orchestrator](https://github.com/EchoingVesper/mcp-task-orchestrator)** - AI-powered task orchestration and workflow automation with specialized agent roles, intelligent task decomposition, and seamless integration across Claude Desktop, Cursor IDE, Windsurf, and VS Code.
 - **[Text-To-GraphQL](https://github.com/Arize-ai/text-to-graphql-mcp)** - MCP server for text-to-graphql, integrates with Claude Desktop and Cursor.
-- **[TeamCity](https://github.com/itcaat/teamcity-mcp)** - MCP server for TeamCity, integrates with Claude Desktop and Cursor.  
+- **[TeamCity](https://github.com/itcaat/teamcity-mcp)** - MCP server for TeamCity, integrates with Claude Desktop and Cursor.
 - **[TikTok](https://github.com/Seym0n/tiktok-mcp)** - TikTok integration for getting post details and video subtitles
 - **[Time](https://github.com/TheoBrigitte/mcp-time)** - MCP server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities.
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
 - **[Trello](https://github.com/m0xai/trello-mcp-server)** - Trello integration for working with boards, lists in boards and cards in lists.
-- **[Trello MCP](https://github.com/kocakli/Trello-Desktop-MCP)** - Trello Desktop MCP server that enables Claude Desktop to interact with Trello boards, cards, lists, and team members through natural language commands. 
+- **[Trello MCP](https://github.com/kocakli/Trello-Desktop-MCP)** - Trello Desktop MCP server that enables Claude Desktop to interact with Trello boards, cards, lists, and team members through natural language commands.
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
 - **[Unified Diff MCP Server](https://github.com/gorosun/unified-diff-mcp)** - Beautiful HTML and PNG diff visualization using diff2html, designed for filesystem edit_file dry-run output with high-performance Bun runtime.
@@ -463,12 +464,11 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Windows Control](https://github.com/Cheffromspace/nutjs-windows-control)** - Programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture using nut.js.
 - **[X (Twitter)](https://github.com/mbelinky/x-mcp-server)** - Enhanced MCP server for Twitter/X with OAuth 2.0 support, v2 API media uploads, smart v1.1 fallbacks, and comprehensive rate limiting. Post tweets with text/media, search, and delete tweets programmatically.
 - **[xcodebuild](https://github.com/ShenghaiWang/xcodebuild)** - 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
-- **[XcodeBuildMCP](https://github.com/cameroncooke/xcodebuildmcp)** -  Popular MCP server that enables AI agents to scaffold, build, run and test iOS, macOS, visionOS and watchOS apps or simulators and wired and wireless devices. It has powerful UI-automation capabilities like controlling the simulator, capturing run-time logs, as well as taking screenshots and viewing the accessibility hierarchy. 
+- **[XcodeBuildMCP](https://github.com/cameroncooke/xcodebuildmcp)** -  Popular MCP server that enables AI agents to scaffold, build, run and test iOS, macOS, visionOS and watchOS apps or simulators and wired and wireless devices. It has powerful UI-automation capabilities like controlling the simulator, capturing run-time logs, as well as taking screenshots and viewing the accessibility hierarchy.
 - **[xcsimctl](https://github.com/nzrsky/simctl-mcp-server)** - 🍎 Manage Xcode simulators.
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
-
 
 ## Clients
 
