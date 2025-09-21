@@ -447,6 +447,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[OSV](https://github.com/StacklokLabs/osv-mcp)** - Access the [OSV (Open Source Vulnerabilities) database](https://osv.dev/) for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer)** - Token-efficient access to OpenAPI/Swagger specs via MCP Resources
+- **[OpenMF-mifosx-self-service](https://github.com/openMF/mcp-mifosx-self-service)** - Access Apache Fineract self-service APIs for registration, authentication, account management, and transactions via MCP.
 - **[Package Registry Search](https://github.com/artmann/package-registry-mcp)** - Search and get up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[Paperless-MCP](https://github.com/baruchiro/paperless-mcp)** - An MCP server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NGX instance.
@@ -461,6 +462,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[PiloTY](https://github.com/yiwenlu66/PiloTY)** - AI pilot for PTY operations that enables agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
 - **[Project Manager](https://github.com/croffasia/mcp-project-manager)** - Hierarchical task management (ideas → epics → tasks) with CLI dashboard
+- **[QuantConnect](https://github.com/QuantConnect/mcp-server)** – Dockerized Python MCP server that lets LLMs like Claude or OpenAI o3 Pro autonomously create projects, backtest strategies, and deploy live-trading workflows via the QuantConnect API.
 - **[QGIS](https://github.com/jjsantos01/qgis_mcp)** - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
 - **[Random Number](https://github.com/zazencodes/random-number-mcp)** - Provides LLMs with essential random generation abilities, built entirely on Python's standard library.
 - **[Repo Map](https://github.com.mcas.ms/pdavis68/RepoMapper)** -🐧 🪟 🍎 - An MCP server (and command-line tool) to provide a dynamic map of chat-related files from the repository with their function prototypes and related files in order of relevance. Based on the "Repo Map" functionality in Aider.chat
