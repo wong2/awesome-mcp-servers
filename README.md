@@ -263,6 +263,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Zapier](https://zapier.com/mcp)** - Connect your AI Agents to 8,000 apps instantly.
 - **[Zenable](https://docs.zenable.io/integrations/mcp/getting-started)** - Clean up sloppy AI code and prevent vulnerabilities
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
+- **[AnyCrawl](https://github.com/any4ai/anycrawl-mcp-server)** - [AnyCrawl](https://anycrawl.dev) MCP Server, Powerful web scraping and crawling for Cursor, Claude, and other LLM clients via the Model Context Protocol (MCP).
 
 ## Community Servers
 
