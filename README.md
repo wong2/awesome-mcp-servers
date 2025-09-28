@@ -466,6 +466,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Peliqan](https://github.com/Peliqan-io/mcp-server-peliqan)** - Data platform with ETL and built-in data warehouse, access all business applications (ERP, CRM, Accounting etc.) via MCP and run queries on your business data.
 - **[Perplexity](https://github.com/tanigami/mcp-server-perplexity)** - Interacting with Perplexity
 - **[Poland KRS](https://github.com/pkolawa/krs-poland-mcp-server)** - Access to Polish National Court Register (KRS)—the government's authoritative registry of all businesses, foundations, and other legal entities.
+- **[Poland Parliament](https://github.com/pkolawa/parliament-poland-mcp-server)** - MCP server providing access to official records of activities of the Polish Parliament, including information on members, voting records, committees, and proceedings.
 - **[Pollinations](https://github.com/pollinations/model-context-protocol)** - Multimodal MCP server for generating images, audio, and text with no authentication required
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
