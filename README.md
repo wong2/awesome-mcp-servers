@@ -5,14 +5,23 @@
 
 ## Sponsors
 
-<p align="center"> 
-  <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP</a>
-</p>
-<p align="center">
-  <a href="https://get.brightdata.com/mcpservers">
-    <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://get.brightdata.com/mcpservers">
+  <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="220" alt="Bright Data Logo">
+</a>
+
+*Access reliable, real-time or historical web data at scale with Bright Data MCP*
+
+---
+
+<a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">
+  <img src="https://zdokphuwivxxlloiqhwl.supabase.co/storage/v1/object/public/cdn/thordata.svg" width="220" alt="Thordata Logo">
+</a>
+
+*Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services*
+
+</div>
 
 ## Reference Servers
 
