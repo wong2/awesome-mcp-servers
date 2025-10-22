@@ -20,6 +20,7 @@
 </a>
 
 *Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services*
+*Register for a free trial; 30% discount code: THOR66*
 
 </div>
 
