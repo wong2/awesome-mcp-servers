@@ -22,6 +22,14 @@
 *Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services*
 *Register for a free trial; 30% discount code: THOR66*
 
+---
+
+<a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
+  <img src="assets/scoutamp.png" width="220" alt="Scoutamp Logo">
+</a>
+
+*Put performance and error data directly in the hands of your AI assistant*
+
 </div>
 
 ## Reference Servers
