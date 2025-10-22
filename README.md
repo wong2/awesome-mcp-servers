@@ -6,30 +6,38 @@
 ## Sponsors
 
 <div align="center">
-
-<a href="https://get.brightdata.com/mcpservers">
-  <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="220" alt="Bright Data Logo">
-</a>
-
-*Access reliable, real-time or historical web data at scale with Bright Data MCP*
-
----
-
-<a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">
-  <img src="https://zdokphuwivxxlloiqhwl.supabase.co/storage/v1/object/public/cdn/thordata.svg" width="220" alt="Thordata Logo">
-</a>
-
-*Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services*
-*Register for a free trial; 30% discount code: THOR66*
-
----
-
-<a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
-  <img src="assets/scoutamp.png" width="220" alt="Scoutamp Logo">
-</a>
-
-*Put performance and error data directly in the hands of your AI assistant*
-
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://get.brightdata.com/mcpservers">
+        <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">
+        <img src="https://zdokphuwivxxlloiqhwl.supabase.co/storage/v1/object/public/cdn/thordata.svg" width="200" alt="Thordata Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services. Register for a free trial; 30% discount code: THOR66</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
+        <img src="assets/scoutamp.png" width="200" alt="Scoutamp Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">Put performance and error data directly in the hands of your AI assistant</a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## Reference Servers
