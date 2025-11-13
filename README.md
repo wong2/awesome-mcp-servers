@@ -480,6 +480,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - Interacting with Obsidian via REST API
 - **[Odoo](https://github.com/ivnvxd/mcp-server-odoo)** - Connect AI assistants to Odoo ERP systems for business data access and workflow automation.
 - **[Octocode](https://github.com/bgauryy/octocode-mcp)** - AI-powered developer assistant that enables advanced research, analysis and discovery and code generation across GitHub and NPM realms in realtime.
+- **[org-mcp](https://github.com/laurynas-biveinis/org-mcp/)** - Create and update items such as TODO tasks in Emacs Org mode.
 - **[OSV](https://github.com/StacklokLabs/osv-mcp)** - Access the [OSV (Open Source Vulnerabilities) database](https://osv.dev/) for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer)** - Token-efficient access to OpenAPI/Swagger specs via MCP Resources
