@@ -19,16 +19,6 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">
-        <img src="https://zdokphuwivxxlloiqhwl.supabase.co/storage/v1/object/public/cdn/thordata.svg" width="200" alt="Thordata Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.thordata.com/?ls=github&lk=awesome-mcp-servers">Collect public network data with one click. Provide enterprises and developers with stable, efficient, and compliant global proxy IP services. Register for a free trial; 30% discount code: THOR66</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
         <img src="assets/scoutamp.png" width="200" alt="Scoutamp Logo">
       </a>
@@ -187,7 +177,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Jetty.io](https://github.com/jettyio/mlcbakery/tree/main/mcp_server)** — Work on dataset metadata with MLCommons Croissant validation and creation.
 - **[Kagi Search](https://github.com/kagisearch/kagimcp)** - Search the web using Kagi's search API
 - **[Keboola](https://github.com/keboola/keboola-mcp-server)** - Build robust data workflows, integrations, and analytics on a single intuitive platform.
-- **[Kiwi.com]([https://www.kiwi.com](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search))** - Official [Kiwi.com](https://www.kiwi.com) flight search MCP server. Search and book flights directly from your favorite AI assistant.
+- **[Kiwi.com](<[https://www.kiwi.com](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)>)** - Official [Kiwi.com](https://www.kiwi.com) flight search MCP server. Search and book flights directly from your favorite AI assistant.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** - Connect with 10,000+ tools across HRIS, ATS, CRM, Accounting, Calendar, Meeting, Ticketing, and more categories.
 - **[Kontent.ai](https://github.com/kontent-ai/mcp-server)** - Create, manage, and explore your content and content model using natural language in any MCP-compatible AI tool.
 - **[Last9](https://github.com/last9/last9-mcp-server)** - Seamlessly bring real-time production context—logs, metrics, and traces—into your local environment to auto-fix code faster.
@@ -237,7 +227,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
 - **[Plugged.in](https://github.com/VeriTeknik/pluggedin-mcp-proxy)** - A comprehensive proxy that combines multiple MCP servers into a single MCP. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
-- **[Postman](https://github.com/postmanlabs/postman-mcp-server)** - Postman’s remote MCP server connects AI agents, assistants, and chatbots directly to your APIs on Postman. 
+- **[Postman](https://github.com/postmanlabs/postman-mcp-server)** - Postman’s remote MCP server connects AI agents, assistants, and chatbots directly to your APIs on Postman.
 - **[Powerdrill](https://github.com/powerdrillai/powerdrill-mcp)** - An MCP server that provides tools to interact with Powerdrill datasets, enabling smart AI data analysis and insights.
 - **[Powertool](https://github.com/aws-powertools/powertools-mcp)** - An MCP implementation that provides search functionality for the Powertools for AWS Lambda documentation across multiple runtimes.
 - **[Prisma Postgres](https://github.com/prisma/mcp)** - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries)
@@ -314,7 +304,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
-- **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash**. 
+- **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
 - **[Alertmanager](https://github.com/ntk148v/alertmanager-mcp-server)** - A Model Context Protocol (MCP) server that enables AI assistants to integrate with Prometheus Alertmanager
@@ -433,7 +423,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Keycloak MCP Server](https://github.com/sshaaf/keycloak-mcp-server)** - designed to work with Keycloak for identity and access management, with about 40+ tools covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Native builds available.
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
 - **[Language Server](https://github.com/isaacphi/mcp-language-server)** 🏎️ - MCP Language Server gives MCP enabled clients access to semantic tools like get definition, references, rename, and diagnostics.
-- **[Latex MCP Server](https://github.com/Yeok-c/latex-mcp-server)** - MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex. 
+- **[Latex MCP Server](https://github.com/Yeok-c/latex-mcp-server)** - MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.
 - **[Lazy Toggl MCP](https://github.com/movstox/lazy-toggl-mcp)** - Simple unofficial MCP server to track time via Toggl API
 - **[libSQL by xexr](https://github.com/Xexr/mcp-libsql)** - MCP server for libSQL databases with comprehensive security and management tools. Supports file, local HTTP, and remote Turso databases with connection pooling, transaction support, and 6 specialized database tools.
 - **[Linear](https://github.com/tacticlaunch/mcp-linear)** - Integrates with Linear project management systems.
@@ -528,7 +518,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Sonatype MCP Server](https://github.com/brianveltman/sonatype-mcp)** - MCP for Sonatype Nexus Repository Manager and Sonatype Repository Firewall. Manage your DevSecOps practices through AI-assisted Workflows.
 - **[Sourcerer](https://github.com/st3v3nmw/sourcerer-mcp)** - MCP for semantic code search & navigation that reduces token waste
 - **[spm-mcp](https://github.com/simpleswift/spm-mcp)** - iOS Swift Package Manager server written in Swift
-- **[Spotify Player](https://github.com/vsaez/mcp-spotify-player) – Control Spotify playback, queue, volume and playlists from Claude/Cursor via MCP. (Python)
+- \*\*[Spotify Player](https://github.com/vsaez/mcp-spotify-player) – Control Spotify playback, queue, volume and playlists from Claude/Cursor via MCP. (Python)
 - **[SQLite](https://github.com/panasenco/mcp-sqlite)** - MCP server for SQLite files. Supports Datasette-compatible metadata!
 - **[Squad AI](https://github.com/the-basilisk-ai/squad-mcp)** – Product‑discovery and strategy platform integration. Create, query and update opportunities, solutions, outcomes, requirements and feedback from any MCP‑aware LLM.
 - **[Storyblok](https://github.com/Kiran1689/storyblok-mcp-server)** - Storyblok MCP server enables your AI assistants to directly access and manage your Storyblok spaces, stories, components, assets, workflows, and more.
