@@ -456,6 +456,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[MongoDB Lens](https://github.com/furey/mongodb-lens)** - Full Featured MCP Server for MongoDB Database.
 - **[Miro](https://github.com/k-jarzyna/mcp-miro)** - Miro MCP server, exposing all functionalities available in official Miro SDK.
 - **[Multi Chat MCP Server (Google Chat)](https://github.com/siva010928/multi-chat-mcp-server)** - Connect AI assistants like Cursor to Google Chat and beyond — enabling smart, extensible collaboration across chat platforms.
+- **[mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal)** - "Playwright for terminals - enables AI agents to interact with terminal-based applications through structured Terminal State Tree representation."
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** - MySQL database integration with configurable access controls and schema inspection
 - **[Nanoleaf](https://github.com/srnetadmin/nanoleaf-mcp-server)** - Control Nanoleaf smart lights through MCP - turn on/off, adjust brightness, change colors, set effects, and discover devices
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
