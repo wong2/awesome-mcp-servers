@@ -37,6 +37,16 @@
       <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">Put performance and error data directly in the hands of your AI assistant</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://mcp.alphavantage.co/">
+        <img src="assets/alpha-vantage.png" width="200" alt="Alpha Vantage Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: real-time options, historical stock data, crypto, forex, technical indicators, fundamentals, commodities, & more</a>
+    </td>
+  </tr>
 </table>
 </div>
 
