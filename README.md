@@ -34,7 +34,7 @@
       </a>
     </td>
     <td>
-      <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: real-time options, historical stock data, crypto, forex, technical indicators, fundamentals, commodities, & more</a>
+      <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
     </td>
   </tr>
 </table>
