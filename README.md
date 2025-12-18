@@ -587,6 +587,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[MCP-Connect](https://github.com/EvalsOne/mcp-connect)** A client that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
 - **[codemirror-mcp](https://github.com/marimo-team/codemirror-mcp)** CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - **[LibreChat](https://www.librechat.ai/)** Open-source AI Web UI, supporting multiple providers including OpenAI, Anthropic, Google, Ollama, and local models. Includes MCP support for Agents.
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** Production-ready Multi-AI Agents framework with native MCP integration. Fastest agent instantiation (3.77μs), 100+ LLM support, agentic workflows, Python & JS SDKs.
 - **[mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)** A Neovim plugin that provides a UI and api to interact with MCP servers.
 - **[Nerve](https://github.com/evilsocket/nerve)** is an open source command line tool designed to be a simple yet powerful platform for creating and executing MCP integrated LLM-based agents.
 - **[Shinkai](http://github.com/dcSpark/shinkai-apps/)** is a two click install AI manager (Local and Remote) that allows you to create AI agents in 5 minutes or less using a simple UI. Agents and tools are exposed as an MCP Server.
