@@ -101,6 +101,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Carbon Voice](https://github.com/PhononX/cv-mcp-server)** - <img height="20" width="20" src="https://carbonvoice.app/favicon.ico" align="center"/> MCP Server that connects AI Agents to [Carbon Voice](https://getcarbon.app). Create, manage, and interact with voice messages, conversations, direct messages, folders, voice memos, AI actions and more in [Carbon Voice](https://getcarbon.app).
 - **[Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)** - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - **[Chart](https://github.com/antvis/mcp-server-chart)** - 🤖 A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
+- **[CheatEngine MCP Bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge)** - Connects AI agents to Cheat Engine for memory scanning, RTTI analysis, and invisible debugging.
 - **[Chroma](https://github.com/chroma-core/chroma-mcp)** - Embeddings, vector search, document storage, and full-text search with the open-source AI application database
 - **[Chroma Package Search](https://trychroma.com/package-search)** - Add to coding agents like Claude or Cursor to give them the ability to understand and better use thousands of dependencies.
 - **[Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp)** - Predict anything with Chronulus AI forecasting and prediction agents.
