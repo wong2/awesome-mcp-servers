@@ -594,6 +594,8 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Frameworks
 
+- **[PraisonAI MCP](https://github.com/MervinPraison/praisonai-mcp)** - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution, and file operations. Install via `uvx praisonai-mcp`.
+
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
