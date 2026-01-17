@@ -572,6 +572,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[Zeltser Security Writing](https://zeltser.com/good-ir-reports-with-ai/)** <sup>[(Registry)](https://registry.modelcontextprotocol.io/servers/com.zeltser/website-search)</sup> - AI-powered guidance for writing incident response reports and security assessments. Hosted MCP server built with [mcp-expertise-toolkit](https://github.com/lennyzeltser/mcp-expertise-toolkit). Connect: `https://website-mcp.zeltser.com/mcp`
 
 ## Clients
 
@@ -596,6 +597,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
+- **[mcp-expertise-toolkit](https://github.com/lennyzeltser/mcp-expertise-toolkit)** - Template for building expertise-based MCP servers on Cloudflare Workers. Define domain knowledge in YAML, deploy as AI-accessible guidance.
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[MCP Plexus](https://github.com/super-i-tech/mcp_plexus)**: A secure, **multi-tenant** Python MCP server framework built to integrate easily with external services via OAuth 2.1, offering scalable and robust solutions for managing complex AI applications.
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
