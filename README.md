@@ -84,6 +84,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AWS Core](https://github.com/awslabs/mcp/tree/main/src/core-mcp-server)** - Core AWS MCP server providing prompt understanding and server management capabilities.
 - **[AWS Cost Analysis](https://github.com/awslabs/mcp/tree/main/src/cost-analysis-mcp-server)** - Analyze CDK projects to identify AWS services used and get pricing information from AWS pricing webpages and API.
 - **[AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server)** - Fetch, convert, and search AWS documentation pages, with recommendations for related content.
+- **[AWS DynamoDB](https://github.com/awslabs/mcp/tree/main/src/dynamodb-mcp-server)** - The official developer experience MCP Server for Amazon DynamoDB. This server provides DynamoDB expert design guidance and data modeling assistance.
 - **[AWS Nova Canvas](https://github.com/awslabs/mcp/tree/main/src/nova-canvas-mcp-server)** - Generate images using Amazon Nova Canvas with text prompts and color guidance.
 - **[Axiom](https://github.com/axiomhq/mcp-server-axiom)** - Query and analyze your Axiom logs, traces, and all other event data in natural language
 - **[Azure DevOps](https://github.com/microsoft/azure-devops-mcp)** - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
