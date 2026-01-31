@@ -185,6 +185,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ilert](https://github.com/iLert/mcp-ilert)** - Interact with [ilert](https://ilert.com) through natural language.
 - **[JetBrains](https://github.com/JetBrains/mcp-jetbrains)** – Work on your code with JetBrains IDEs
 - **[Jetty.io](https://github.com/jettyio/mlcbakery/tree/main/mcp_server)** — Work on dataset metadata with MLCommons Croissant validation and creation.
+- **[jarp-mcp](https://github.com/tersePrompts/jarp-mcp)** - MCP server that gives AI agents instant access to decompiled Java code from Maven dependencies. Blazing fast Java class analysis for Claude, Cursor, and other LLM-powered IDEs.
 - **[Kagi Search](https://github.com/kagisearch/kagimcp)** - Search the web using Kagi's search API
 - **[Keboola](https://github.com/keboola/keboola-mcp-server)** - Build robust data workflows, integrations, and analytics on a single intuitive platform.
 - **[Kiwi.com](<[https://www.kiwi.com](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)>)** - Official [Kiwi.com](https://www.kiwi.com) flight search MCP server. Search and book flights directly from your favorite AI assistant.
@@ -595,6 +596,7 @@ A growing set of community-developed and maintained servers demonstrates various
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
+- **[fastMCP4J](https://github.com/tersePrompts/fastMCP4J)** - Java framework for building MCP servers with annotations. JSON Schema 2020-12 compliant, secure, lightweight.
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[MCP Plexus](https://github.com/super-i-tech/mcp_plexus)**: A secure, **multi-tenant** Python MCP server framework built to integrate easily with external services via OAuth 2.1, offering scalable and robust solutions for managing complex AI applications.
