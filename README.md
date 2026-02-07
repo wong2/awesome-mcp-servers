@@ -350,6 +350,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Chaitin IP Intelligence](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool)** - Search for IP addresses using Chaitin's IP Intelligence API.
 - **[Chart](https://github.com/KamranBiglari/mcp-server-chart)** - This server offers a wide variety of chart types with comprehensive Zod schema validation for type-safe chart configuration.
 - **[ChuckNorris](https://github.com/pollinations/chucknorris-mcp)** - A specialized MCP gateway for LLM enhancement prompts and jailbreaks with dynamic schema adaptation. Provides prompts for different LLMs using an enum-based approach.
+- **[CIE](https://github.com/kraklabs/cie)** - Local code intelligence engine that gives AI assistants deep understanding of codebases through semantic search, call graph analysis, and 25+ MCP tools. Indexes using Tree-sitter and CozoDB.
 - **[clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP)** - Clojure linter
 - **[Clojars](https://github.com/Bigsy/Clojars-MCP-Server)** - Obtains latest dependency details for Clojure libraries.
 - **[clojure-mcp](https://github.com/bhauman/clojure-mcp)** - Clojure development tools, direct access to the running program via REPL.
@@ -459,6 +460,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Mermaid](https://github.com/hustcc/mcp-mermaid)** - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - **[Memory-Plus](https://github.com/Yuchen20/Memory-Plus)** a lightweight, local RAG memory store to record, retrieve, update, delete, and visualize persistent "memories" across sessions—perfect for developers working with multiple AI coders (like Windsurf, Cursor, or Copilot) or anyone who wants their AI to actually remember them.
 - **[Meta Ads Remote MCP](https://github.com/pipeboard-co/meta-ads-mcp)** - Remote MCP server to interact with Meta Ads API - access, analyze, and manage Facebook, Instagram, and other Meta platforms advertising campaigns.
+- **[MIE](https://github.com/kraklabs/mie)** - Persistent knowledge graph that gives all AI agents shared memory through MCP. Stores facts, decisions, entities, events, and their relationships. Works with Claude Code, Cursor, and any MCP client.
 - **[Minima](https://github.com/dmayboroda/minima)** - Local RAG (on-premises) with MCP server.
 - **[MintMCP](https://github.com/mintmcp/servers)** - MCP servers for Google Calendar, Gmail, Outlook Calendar, and Outlook.
 - **[Mongo](https://github.com/QuantGeekDev/mongo-mcp)** - A Model Context Protocol (MCP) server that enables LLMs to interact directly with MongoDB databases
