@@ -218,6 +218,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server)** integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools
 - **[Notion](https://github.com/makenotion/notion-mcp-server)** - Notion official MCP server
 - **[Notte](https://github.com/nottelabs/notte/tree/main/packages/notte-mcp)** - Leverage Notte Web AI agents & cloud browser sessions for scalable browser automation & scraping workflows
+- **[Nory](https://github.com/TheMemeBanker/nory-mcp-server)** - Enable AI agents to make instant USDC payments via x402 HTTP protocol with sub-400ms settlement on Solana and EVM chains.
 - **[Norman Finance](https://github.com/norman-finance/norman-mcp-server)** - MCP server for managing accounting and taxes with Norman Finance.
 - **[OceanBase](https://github.com/oceanbase/mcp-oceanbase)** - MCP Server for OceanBase database and its tools
 - **[Octagon](https://github.com/OctagonAI/octagon-mcp-server)** - Deliver real-time investment research with extensive private and public market data.
