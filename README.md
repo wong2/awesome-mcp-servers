@@ -442,6 +442,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Local History MCP](https://github.com/xxczaki/local-history-mcp)** – MCP server for accessing VS Code/Cursor's Local History.
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
+- **[make-mcp-server](https://github.com/danishashko/make-mcp)** - Unofficial community fork with 200+ modules, auto-healing blueprints, and router support for building Make.com scenarios via AI.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
 - **[Maven Tools](https://github.com/arvindand/maven-tools-mcp)** - Enhanced Maven Central integration with intelligent caching, bulk operations, and version classification
 - **[Maya MCP](https://github.com/PatrickPalmer/MayaMCP)** - MCP server for Autodesk Maya
@@ -601,3 +602,4 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+
