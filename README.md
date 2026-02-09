@@ -119,6 +119,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Cua](https://github.com/trycua/cua/tree/main/libs/mcp-server)** - MCP server for the Computer-Use Agent (CUA), allowing you to run CUA through Claude Desktop or other MCP clients.
 - **[Currents](https://github.com/currents-dev/currents-mcp)** - Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - **[Cycode](https://github.com/cycodehq/cycode-cli#mcp-command-experiment)** - Boost security in your dev lifecycle via SAST, SCA, Secrets & IaC scanning with [Cycode](https://cycode.com/).
+- **[Databricks](https://github.com/pramodbhatofficial/databricks-mcp-server)** - 263 tools across 28 Databricks service domains (Unity Catalog, SQL, Compute, Jobs, Serving, Vector Search, Apps, Lakebase, and more). SDK-first with role-based presets and selective tool loading.
 - **[DAISYS](https://github.com/daisys-ai/daisys-mcp)** - Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform.
 - **[Dart](https://github.com/its-dart/dart-mcp-server)** - Interact with task, doc, and project data in [Dart](https://itsdart.com), an AI-native project management tool
 - **[Dash0](https://github.com/dash0hq/mcp-dash0)** - Navigate your OpenTelemetry resources, investigate incidents and query metrics, logs and traces on [Dash0](https://www.dash0.com/).
