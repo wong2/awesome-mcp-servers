@@ -595,6 +595,7 @@ A growing set of community-developed and maintained servers demonstrates various
 ## Frameworks
 
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
+- **[HasMCP](https://github.com/hasmcp/hasmcp-ce)** - Remote MCP Server Framework with built-in realtime logs, telemetry and auth. Convert your API endpoints to MCP Server in seconds.
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
 - **[MCP Plexus](https://github.com/super-i-tech/mcp_plexus)**: A secure, **multi-tenant** Python MCP server framework built to integrate easily with external services via OAuth 2.1, offering scalable and robust solutions for managing complex AI applications.
