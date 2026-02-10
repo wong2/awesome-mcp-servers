@@ -236,6 +236,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[PlainSignal](https://github.com/plainsignal/plainsignal-mcp)** - Official MCP server that connects to PlainSignal's API and querying realtime website analytics data in conversational AI.
 - **[Plane](https://github.com/makeplane/plane-mcp-server)** - The official Plane MCP server provides integration with Plane APIs, enabling full AI automation of Plane projects, work items, cycles and more.
 - **[Playwright](https://github.com/microsoft/playwright-mcp)** - Playwright MCP server
+- **[PumpClaw](https://github.com/clawd800/pumpclaw/tree/main/mcp-server)** - Free token launcher for AI agents on Base (Uniswap V4). List tokens, check stats, and deploy ERC20s with instant liquidity. 80% creator fees, LP locked forever.
 - **[Plugged.in](https://github.com/VeriTeknik/pluggedin-mcp-proxy)** - A comprehensive proxy that combines multiple MCP servers into a single MCP. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - **[Postman](https://github.com/postmanlabs/postman-mcp-server)** - Postman’s remote MCP server connects AI agents, assistants, and chatbots directly to your APIs on Postman.
 - **[Powerdrill](https://github.com/powerdrillai/powerdrill-mcp)** - An MCP server that provides tools to interact with Powerdrill datasets, enabling smart AI data analysis and insights.
