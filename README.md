@@ -397,6 +397,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Google News](https://github.com/ChanMeng666/server-google-news)** - Google News search capabilities with automatic topic categorization and multi-language support via SerpAPI integration.
 - **[Google PSE/CSE](https://github.com/rendyfebry/google-pse-mcp)** - A Model Context Protocol (MCP) server providing access to Google Programmable Search Engine (PSE) and Custom Search Engine (CSE).
 - **[Google Search Console](https://github.com/ahonn/mcp-server-gsc)** - A Model Context Protocol (MCP) server providing access to Google Search Console.
+- **[Gunsnation](https://github.com/DynamicDeals/mcp-server-gunsnation)** - AI-ready MCP server that gives assistants real-time access to the Gunsnation firearms catalog for product search and firearm specifications.
 - **[GitHub Repos Manager MCP Server](https://github.com/kurdin/github-repos-manager-mcp)** - Token-based GitHub automation management. No Docker, Flexible configuration, 80+ tools with direct API integration.
 - **[gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git)** - 🏎️ ☁️ An MCP server application that sends various types of messages to the WeCom group robot.
 - **[Gru Sandbox](https://github.com/babelcloud/gru-sandbox)** - Gru-sandbox(gbox) is an open source project that provides a self-hostable sandbox for MCP integration or other AI agent usecases.
