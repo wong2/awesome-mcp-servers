@@ -150,6 +150,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Fibery](https://github.com/Fibery-inc/fibery-mcp-server)** - Perform queries and entity operations in your [Fibery](https://fibery.io) workspace.
 - **[Find-A-Domain](https://findadomain.dev/mcp)** - Domain availability checking and WHOIS lookup tools.
 - **[Financial Datasets](https://github.com/financial-datasets/mcp-server)** - Stock market API made for AI agents
+- **[TradeKix](https://github.com/TradekixAI/tradekix-mcp-server)** - Financial market data for AI agents — stock prices, indices, forex, earnings, economic events, congressional trades with conflict detection, social sentiment, and news.
 - **[Firecrawl](https://github.com/mendableai/firecrawl-mcp-server)** - Extract web data with [Firecrawl](https://firecrawl.dev)
 - **[Fireproof](https://github.com/fireproof-storage/mcp-database-server)** - Immutable ledger database with live synchronization
 - **[FlyonUI](https://github.com/themeselection/flyonui-mcp)** - Build modern, production-ready UI blocks, components, and landing pages in minutes.
