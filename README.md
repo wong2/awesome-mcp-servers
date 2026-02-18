@@ -200,6 +200,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[MailSandbox](https://github.com/btafoya/mailsandbox)** - MailSandbox (a fork of Mailpit) is a fast, zero-dependency email testing tool & API with a web UI, SMTP server, Postmark API emulation, and MCP server for AI-assisted debugging.
 - **[Mailtrap](https://github.com/railsware/mailtrap-mcp)** - Integrates with Mailtrap Email API.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
+- **[MCP AI Server for Visual Studio](https://github.com/LadislavSopko/mcp-ai-server-visual-studio)** - Visual Studio extension with 20 Roslyn-powered MCP tools. Semantic code navigation, symbol search, inheritance trees, call graphs, safe rename, and build/test execution for AI assistants.
 - **[Mapbox](https://github.com/mapbox/mcp-server)** - Unlock geospatial intelligence through Mapbox APIs like geocoding, POI search, directions, isochrones and more.
 - **[Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** - Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 - **[Mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
