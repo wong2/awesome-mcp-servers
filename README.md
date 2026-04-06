@@ -9,12 +9,12 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://brightdata.com/ai/mcp-server?utm_source=mcpservers">
+      <a href="https://get.brightdata.com/mcpservers">
         <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
       </a>
     </td>
     <td>
-      <a href="https://brightdata.com/ai/mcp-server?utm_source=mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP</a>
+      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP. Enjoy 5,000 MCP requests every month - for free</a>
     </td>
   </tr>
   <tr>
