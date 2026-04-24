@@ -19,16 +19,6 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
-        <img src="assets/scoutamp.png" width="200" alt="Scoutamp Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">Put performance and error data directly in the hands of your AI assistant</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://mcp.alphavantage.co/">
         <img src="assets/alpha-vantage.png" width="200" alt="Alpha Vantage Logo">
       </a>
