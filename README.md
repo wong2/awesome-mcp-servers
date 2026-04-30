@@ -30,7 +30,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://kone.vc/?utm_source=mcpservers">
-        <img src="https://kone.vc/logo.svg" width="200" alt="Kone.vc Logo">
+        <img src="https://kone.vc/logo.svg" width="140" alt="Kone.vc Logo">
       </a>
     </td>
     <td>
