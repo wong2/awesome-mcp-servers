@@ -27,6 +27,16 @@
       <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://kone.vc/?utm_source=mcpservers">
+        <img src="https://kone.vc/logo.svg" width="200" alt="Kone.vc Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://kone.vc/?utm_source=mcpservers">Monetize your AI agent with contextual product recommendations</a>
+    </td>
+  </tr>
 </table>
 </div>
 
