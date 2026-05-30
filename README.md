@@ -37,6 +37,16 @@
       <a href="https://kone.vc/?utm_source=mcpservers">Monetize your AI agent with contextual product recommendations</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://docs.heyneo.com/neo-mcp">
+        <img src="assets/neo.png" width="200" alt="Neo Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://docs.heyneo.com/neo-mcp">NEO MCP lets Claude Code, Cursor and VS Code hand off complex AI engineering tasks like AI model evals, AI agent optimization and more to NEO.</a>
+    </td>
+  </tr>
 </table>
 </div>
 
