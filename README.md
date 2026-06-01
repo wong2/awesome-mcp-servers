@@ -29,16 +29,6 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://kone.vc/?utm_source=mcpservers">
-        <img src="https://kone.vc/logo.svg" width="140" alt="Kone.vc Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://kone.vc/?utm_source=mcpservers">Monetize your AI agent with contextual product recommendations</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://docs.heyneo.com/neo-mcp">
         <img src="assets/neo.png" width="200" alt="Neo Logo">
       </a>
