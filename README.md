@@ -40,7 +40,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">
-        <img src="assets/capafy.png" width="200" alt="Capafy Logo">
+        <img src="assets/capafy.png" width="200" height="100" alt="Capafy Logo">
       </a>
     </td>
     <td>
