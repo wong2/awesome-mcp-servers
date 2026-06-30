@@ -29,16 +29,6 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://docs.heyneo.com/neo-mcp">
-        <img src="assets/neo.png" width="200" alt="Neo Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://docs.heyneo.com/neo-mcp">NEO MCP lets Claude Code, Cursor and VS Code hand off complex AI engineering tasks like AI model evals, AI agent optimization and more to NEO.</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">
         <img src="assets/capafy.png" height="100" alt="Capafy Logo">
       </a>
