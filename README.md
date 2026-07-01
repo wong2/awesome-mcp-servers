@@ -29,16 +29,6 @@
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">
-        <img src="assets/capafy.png" height="100" alt="Capafy Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">Capafy - the Skill-based Agent Marketplace. Upload your Skill, run it as a product, and make real money every time someone uses it.</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://www.webotee.com/amazon-product-research-mcp?utm_source=mcpservers&utm_medium=sponsor&utm_campaign=mcp_directory">
         <img src="assets/webotee.png" width="200" alt="Webotee Logo">
       </a>
