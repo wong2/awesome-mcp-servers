@@ -17,16 +17,6 @@
       <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.webotee.com/amazon-product-research-mcp?utm_source=mcpservers&utm_medium=sponsor&utm_campaign=mcp_directory">
-        <img src="assets/webotee.png" width="200" alt="Webotee Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.webotee.com/amazon-product-research-mcp?utm_source=mcpservers&utm_medium=sponsor&utm_campaign=mcp_directory">Amazon seller intelligence in your AI — brand, seller, buy-box & niche research in Claude or ChatGPT, with Webotee.</a>
-    </td>
-  </tr>
 </table>
 </div>
 
